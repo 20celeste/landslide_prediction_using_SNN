@@ -1,0 +1,4 @@
+Dataset,Description,Rows,Columns,Primary_Use
+landslide_inventory_india.csv,Historical landslide inventory for India (1998-2022) based on ISRO database structure,1000,12,Landslide occurrence analysis and validation
+landslide_susceptibility_features.csv,Comprehensive feature dataset with 31 variables for landslide susceptibility modeling,5000,32,Machine learning model training for susceptibility prediction
+climate_data_sample.csv,"Monthly climate data sample with temperature, precipitation, and humidity",1000,11,Climate factor analysis and feature engineering

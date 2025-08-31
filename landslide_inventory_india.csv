@@ -1,0 +1,1001 @@
+Landslide_ID,Latitude,Longitude,State,District,Date_Occurred,Landslide_Type,Area_sqm,Casualties,Damage_Level,Trigger,Validation_Status
+LS_00001,30.621781,93.965,Karnataka,Lahaul Spiti,1999-02-14,Rock slide,6583.728467727246,0,Low,Heavy Rainfall,Field Verified
+LS_00002,34.063233,86.623415,Sikkim,Pithoragarh,2002-08-07,Complex landslide,6156.250308522952,0,High,Earthquake,Field Verified
+LS_00003,29.272775,77.851495,Himachal Pradesh,Kinnaur,1999-05-04,Rock slide,1813.7686473023857,0,Low,Heavy Rainfall,Satellite Identified
+LS_00004,28.976457,80.135038,Sikkim,Malappuram,2006-12-02,Rock slide,2281.386091104235,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00005,15.701389,72.232252,Uttarakhand,Shimla,2010-06-24,Complex landslide,4676.66510324805,0,Low,Human Activity,Report Based
+LS_00006,18.509166,73.523069,Jammu & Kashmir,Kinnaur,2010-06-19,Earth slide,513.8865750125312,0,Low,Heavy Rainfall,Satellite Identified
+LS_00007,28.24072,93.095728,Assam,Chamoli,2002-02-28,Earth slide,1497.2888842034304,0,Low,Heavy Rainfall,Satellite Identified
+LS_00008,10.403108,76.847923,Uttarakhand,Pathanamthitta,2009-11-12,Debris slide,7461.226885690704,1,Medium,Heavy Rainfall,Report Based
+LS_00009,9.150403,72.979914,Sikkim,Kullu,2001-07-15,Earth slide,231.40982843415978,0,Low,Heavy Rainfall,Satellite Identified
+LS_00010,30.497273,79.899625,Uttarakhand,West Garo Hills,2001-02-13,Rock slide,3912.03541603873,0,Medium,Heavy Rainfall,Report Based
+LS_00011,18.039182,72.993578,Kerala,Chamoli,2001-07-31,Complex landslide,27.687101879677375,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00012,8.96258,73.792329,Tamil Nadu,Shimla,2018-05-04,Earth slide,615.7505230222482,0,Medium,Heavy Rainfall,Field Verified
+LS_00013,12.04277,73.625917,Karnataka,South Garo Hills,2007-05-26,Debris slide,6539.3789197887045,0,Medium,Heavy Rainfall,Field Verified
+LS_00014,32.992714,89.976486,Kerala,Shimla,2021-12-17,Topple,4119.437474429144,0,Low,Heavy Rainfall,Satellite Identified
+LS_00015,8.330449,72.539457,Sikkim,Lahaul Spiti,2010-02-09,Earth slide,159.6684064652691,0,Low,Heavy Rainfall,Report Based
+LS_00016,29.745046,82.618041,Uttarakhand,Idukki,2008-04-10,Complex landslide,7043.745737692917,0,Low,Heavy Rainfall,Field Verified
+LS_00017,20.086069,76.040602,Kerala,Dakshina Kannada,2000-12-20,Earth slide,5017.470952602655,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00018,31.775396,90.956243,Assam,East Khasi Hills,2020-05-24,Topple,11321.213246431156,0,Low,Heavy Rainfall,Satellite Identified
+LS_00019,33.726103,92.075342,Jammu & Kashmir,Lahaul Spiti,2009-11-18,Debris flow,34.88204590825323,0,Low,Heavy Rainfall,Field Verified
+LS_00020,12.388997,76.714549,Tamil Nadu,Lahaul Spiti,2015-12-01,Earth flow,1951.919014407372,0,Medium,Heavy Rainfall,Report Based
+LS_00021,20.511815,73.258911,Uttarakhand,Chamoli,2002-01-29,Earth flow,3438.296392319236,0,Low,Heavy Rainfall,Satellite Identified
+LS_00022,31.518753,75.081054,Arunachal Pradesh,Pithoragarh,2016-12-08,Complex landslide,1633.1296050518467,1,Low,Heavy Rainfall,Satellite Identified
+LS_00023,20.813456,73.210276,Sikkim,Mandi,2018-12-30,Rock fall,5575.7750514864665,0,Low,Heavy Rainfall,Satellite Identified
+LS_00024,32.426141,87.304124,Karnataka,East Khasi Hills,2022-02-01,Earth slide,3836.926249761744,0,Medium,Heavy Rainfall,Field Verified
+LS_00025,28.285426,86.408752,Assam,Shimla,2011-03-02,Topple,5659.258671336745,0,Low,Heavy Rainfall,Satellite Identified
+LS_00026,29.220565,88.509693,Sikkim,Shimla,2009-10-25,Debris slide,2444.793504905509,1,Low,Heavy Rainfall,Field Verified
+LS_00027,20.021017,76.386697,Arunachal Pradesh,Kinnaur,2020-10-09,Earth flow,1491.6368503074445,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00028,11.14408,72.465514,Sikkim,Chikmagalur,2005-03-31,Rock fall,11375.616125972614,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00029,17.437424,76.485551,Uttarakhand,Chamoli,2019-12-02,Earth slide,10905.662846983067,0,Medium,Heavy Rainfall,Field Verified
+LS_00030,19.681204,75.032145,Uttarakhand,Lahaul Spiti,2008-09-28,Debris slide,46.19802805497205,0,Medium,Heavy Rainfall,Field Verified
+LS_00031,31.841137,88.529799,Himachal Pradesh,Hassan,2019-10-20,Earth flow,5277.207410676244,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00032,33.22544,87.642291,Sikkim,Shimla,2019-04-28,Debris flow,9459.780387317005,0,Low,Heavy Rainfall,Satellite Identified
+LS_00033,11.447631,73.219948,Sikkim,South Garo Hills,2007-07-03,Rock slide,18061.54703081463,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00034,14.534282,74.884519,Tamil Nadu,Pathanamthitta,2015-11-25,Topple,3391.467166708467,0,Medium,Heavy Rainfall,Field Verified
+LS_00035,32.518306,77.719324,Kerala,Pithoragarh,2009-02-13,Earth slide,14105.415736366516,2,High,Heavy Rainfall,Field Verified
+LS_00036,34.49823,82.991867,Kerala,Dakshina Kannada,2022-11-06,Rock slide,17004.21008061028,2,Medium,Heavy Rainfall,Satellite Identified
+LS_00037,33.957957,80.655362,Uttarakhand,Lahaul Spiti,2001-03-09,Debris slide,928.5930814787739,0,High,Heavy Rainfall,Satellite Identified
+LS_00038,28.680235,86.915152,Himachal Pradesh,Chikmagalur,2012-10-27,Rock slide,23052.848739231587,0,Low,Human Activity,Satellite Identified
+LS_00039,17.061205,75.51242,Kerala,Hassan,2019-10-11,Earth flow,2227.4617115747456,0,Medium,Earthquake,Satellite Identified
+LS_00040,19.872127,74.556712,Meghalaya,Malappuram,2008-11-25,Rock slide,3480.921887755996,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00041,34.230037,81.097898,Assam,Wayanad,2002-05-08,Complex landslide,2354.683943637782,0,Low,Heavy Rainfall,Satellite Identified
+LS_00042,15.05438,73.432706,Uttarakhand,West Garo Hills,2018-12-13,Debris slide,4468.1626507308765,0,Low,Earthquake,Satellite Identified
+LS_00043,28.889424,84.967108,Tamil Nadu,Chamoli,2016-01-23,Rock slide,7348.239702228676,0,Medium,Heavy Rainfall,Field Verified
+LS_00044,31.719482,85.353338,Sikkim,Pathanamthitta,2006-07-14,Earth flow,5072.68724102308,0,High,Heavy Rainfall,Satellite Identified
+LS_00045,18.337421,73.354161,Karnataka,Pathanamthitta,2006-03-26,Rock slide,2889.917156366507,0,Low,Snowmelt,Satellite Identified
+LS_00046,32.871819,82.588012,Sikkim,Chamoli,2017-11-17,Rock fall,951.5326807105437,0,Low,Heavy Rainfall,Satellite Identified
+LS_00047,32.621382,79.878612,Kerala,Shimla,2002-03-09,Complex landslide,15490.517492781533,0,Low,Heavy Rainfall,Satellite Identified
+LS_00048,11.220503,73.779863,Kerala,Kozhikode,2019-08-05,Rock fall,7090.909238783566,0,Low,Heavy Rainfall,Field Verified
+LS_00049,33.988224,88.776815,Uttarakhand,Kozhikode,2015-01-01,Debris flow,3213.9229720644616,0,Low,Heavy Rainfall,Field Verified
+LS_00050,13.640071,73.992524,Assam,South Garo Hills,2010-10-18,Topple,4783.612164565672,0,Low,Heavy Rainfall,Satellite Identified
+LS_00051,31.521954,91.986287,Karnataka,Kinnaur,2006-07-09,Rock fall,5374.873820274989,0,Low,Heavy Rainfall,Field Verified
+LS_00052,32.100429,93.744835,Uttarakhand,Tehri Garhwal,2012-01-26,Topple,4283.912227887722,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00053,34.590254,82.108155,Sikkim,Pithoragarh,2000-07-20,Earth flow,16245.459307533769,1,Low,Heavy Rainfall,Field Verified
+LS_00054,28.127553,75.983302,Kerala,Kozhikode,2001-01-18,Debris slide,5744.374362885836,0,Low,Earthquake,Field Verified
+LS_00055,33.701279,79.91895,Arunachal Pradesh,Pithoragarh,1999-10-14,Complex landslide,628.7505991455382,0,Medium,Human Activity,Satellite Identified
+LS_00056,18.445252,73.410173,Kerala,West Garo Hills,2009-09-12,Earth slide,976.6664802022349,0,Medium,Snowmelt,Satellite Identified
+LS_00057,30.604127,90.304672,Assam,Uttarkashi,2009-11-30,Debris flow,2083.6683546537656,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00058,17.809057,72.515619,Himachal Pradesh,Rudraprayag,2012-03-08,Topple,11642.22840433816,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00059,30.724412,74.227591,Sikkim,Kinnaur,2001-04-15,Debris flow,11789.536484812268,0,Low,Snowmelt,Report Based
+LS_00060,32.014065,87.268581,Himachal Pradesh,Lahaul Spiti,2013-08-28,Earth slide,2975.073318114288,0,Low,Heavy Rainfall,Satellite Identified
+LS_00061,18.290528,75.948091,Meghalaya,Hassan,2005-01-28,Debris flow,478.1847327015972,0,Low,Heavy Rainfall,Satellite Identified
+LS_00062,34.213929,81.369215,Karnataka,West Garo Hills,2022-11-17,Debris slide,622.5298877622544,0,Medium,Heavy Rainfall,Field Verified
+LS_00063,28.588748,88.720352,Himachal Pradesh,Chamoli,2009-11-12,Earth flow,377.7304476289857,0,Medium,Heavy Rainfall,Field Verified
+LS_00064,20.826315,73.871354,Arunachal Pradesh,Kinnaur,2010-08-22,Earth slide,2315.2763023765624,0,High,Snowmelt,Satellite Identified
+LS_00065,30.633817,75.753515,Sikkim,Kodagu,2009-11-04,Debris flow,7506.212702273128,0,Low,Human Activity,Field Verified
+LS_00066,31.448376,74.238427,Assam,Mandi,2002-02-21,Rock fall,3161.771847914631,0,Low,Heavy Rainfall,Satellite Identified
+LS_00067,33.222314,86.250744,Jammu & Kashmir,East Khasi Hills,2012-12-17,Debris flow,16373.601045511885,0,Low,Human Activity,Field Verified
+LS_00068,34.742558,74.255244,Sikkim,South Garo Hills,2017-10-27,Complex landslide,17512.634614397408,0,Medium,Heavy Rainfall,Report Based
+LS_00069,28.516576,85.63094,Himachal Pradesh,South Garo Hills,2003-01-07,Earth flow,17417.876106280026,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00070,32.392907,86.270601,Arunachal Pradesh,Hassan,2014-07-25,Earth flow,11571.163847413238,0,Low,Snowmelt,Satellite Identified
+LS_00071,13.923538,75.100663,Uttarakhand,Kullu,2003-09-20,Earth slide,1624.3670994756508,0,Low,Heavy Rainfall,Satellite Identified
+LS_00072,28.544142,94.462291,Kerala,West Garo Hills,2014-01-19,Rock slide,21419.32787776269,0,Low,Heavy Rainfall,Satellite Identified
+LS_00073,32.793118,77.414956,Sikkim,Malappuram,2013-11-12,Earth flow,12091.505459995637,0,High,Heavy Rainfall,Satellite Identified
+LS_00074,30.927701,93.587298,Jammu & Kashmir,Malappuram,2005-04-16,Rock fall,10051.9619002346,0,Low,Heavy Rainfall,Satellite Identified
+LS_00075,34.910933,77.158755,Assam,West Garo Hills,2012-11-25,Rock slide,4508.620651078679,0,High,Earthquake,Satellite Identified
+LS_00076,14.093011,74.074098,Himachal Pradesh,Kozhikode,2005-02-21,Rock fall,1596.944460750306,0,Medium,Earthquake,Report Based
+LS_00077,20.956279,74.777159,Kerala,Pathanamthitta,2007-12-24,Earth slide,7326.415451031304,2,Medium,Heavy Rainfall,Satellite Identified
+LS_00078,9.679072,76.770255,Kerala,Rudraprayag,2008-03-17,Rock slide,4659.23851294309,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00079,9.476249,75.357866,Karnataka,Pithoragarh,2012-09-22,Debris flow,3673.0521209301887,0,Low,Human Activity,Satellite Identified
+LS_00080,15.292194,76.383268,Assam,West Garo Hills,2020-11-07,Earth slide,2583.236569940585,0,Low,Earthquake,Satellite Identified
+LS_00081,32.928558,78.472247,Karnataka,Shimla,2003-03-05,Debris flow,733.0627561413933,0,Low,Heavy Rainfall,Satellite Identified
+LS_00082,31.062324,92.987333,Arunachal Pradesh,Malappuram,2002-11-12,Earth slide,2140.5130721255587,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00083,19.210728,76.747603,Arunachal Pradesh,Chikmagalur,2017-07-29,Debris slide,795.4093965741798,1,Low,Heavy Rainfall,Satellite Identified
+LS_00084,20.740423,74.46309,Karnataka,Tehri Garhwal,2006-07-12,Complex landslide,1993.080160502499,0,Low,Heavy Rainfall,Field Verified
+LS_00085,28.896321,77.189957,Sikkim,West Garo Hills,2021-04-28,Rock slide,747.3003303375827,0,Low,Heavy Rainfall,Satellite Identified
+LS_00086,14.161501,75.337789,Himachal Pradesh,West Garo Hills,2017-05-07,Earth slide,945.6425855660824,0,Low,Heavy Rainfall,Field Verified
+LS_00087,10.301136,72.443513,Karnataka,Chikmagalur,2003-08-04,Debris flow,642.7810674667627,0,Low,Heavy Rainfall,Satellite Identified
+LS_00088,16.975133,72.196561,Assam,South Garo Hills,2012-08-19,Debris flow,8032.471219130598,0,Low,Human Activity,Report Based
+LS_00089,28.427546,79.814431,Assam,West Garo Hills,2006-08-10,Complex landslide,8204.675916133212,0,Low,Heavy Rainfall,Satellite Identified
+LS_00090,31.391661,86.98335,Assam,Hassan,2011-07-02,Rock fall,2301.562815001756,0,Medium,Heavy Rainfall,Field Verified
+LS_00091,17.273545,76.476034,Kerala,Malappuram,2010-11-14,Earth slide,3583.8955610420044,0,Low,Heavy Rainfall,Satellite Identified
+LS_00092,11.152117,73.346216,Meghalaya,West Garo Hills,2017-10-26,Rock slide,2368.32492401236,0,Low,Heavy Rainfall,Satellite Identified
+LS_00093,9.556908,76.452636,Himachal Pradesh,Kullu,2005-08-12,Earth slide,4501.994069397799,0,Medium,Heavy Rainfall,Field Verified
+LS_00094,31.759746,86.323663,Karnataka,Lahaul Spiti,2008-07-15,Rock slide,6841.083244042046,0,Low,Heavy Rainfall,Satellite Identified
+LS_00095,32.521421,85.986344,Uttarakhand,Lahaul Spiti,1999-02-05,Topple,2201.033798259031,3,Medium,Heavy Rainfall,Field Verified
+LS_00096,29.070014,79.165112,Assam,East Khasi Hills,2018-06-06,Rock slide,875.8243747714702,0,Low,Heavy Rainfall,Satellite Identified
+LS_00097,9.043039,74.622557,Assam,Lahaul Spiti,2020-03-05,Earth flow,2641.5277824465115,3,Low,Heavy Rainfall,Report Based
+LS_00098,34.05855,91.158513,Assam,Lahaul Spiti,2002-10-13,Earth flow,1491.3754176675232,0,Medium,Human Activity,Satellite Identified
+LS_00099,15.430965,73.399895,Sikkim,Lahaul Spiti,2000-04-02,Debris slide,7337.3687920604425,0,Low,Heavy Rainfall,Satellite Identified
+LS_00100,11.151327,72.574184,Meghalaya,West Garo Hills,2003-12-25,Earth slide,4715.998287146783,0,Low,Heavy Rainfall,Satellite Identified
+LS_00101,14.923663,72.259118,Assam,Hassan,2020-08-23,Topple,2051.9180069021163,0,Low,Snowmelt,Satellite Identified
+LS_00102,33.669121,79.347454,Meghalaya,Mandi,2019-04-18,Rock slide,5720.706755101758,0,Low,Heavy Rainfall,Satellite Identified
+LS_00103,12.535287,76.647646,Meghalaya,East Khasi Hills,2021-05-20,Rock slide,8878.03535570899,2,Low,Heavy Rainfall,Report Based
+LS_00104,10.35603,72.332481,Himachal Pradesh,South Garo Hills,2017-09-24,Debris flow,6756.9657659431105,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00105,29.411391,77.436775,Tamil Nadu,Idukki,2010-03-10,Debris slide,897.2232827997535,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00106,34.140404,82.241347,Kerala,Kozhikode,2004-10-07,Earth flow,8480.413314240348,0,Low,Heavy Rainfall,Satellite Identified
+LS_00107,33.233266,84.557128,Assam,Malappuram,2000-11-18,Earth slide,1321.2126549853263,0,Low,Heavy Rainfall,Report Based
+LS_00108,16.115094,72.58449,Uttarakhand,Kinnaur,2016-08-26,Complex landslide,14053.083419661045,0,Low,Heavy Rainfall,Satellite Identified
+LS_00109,16.060946,74.667305,Arunachal Pradesh,Kozhikode,1998-11-17,Topple,11216.516652682227,0,Low,Heavy Rainfall,Field Verified
+LS_00110,33.207624,74.704181,Karnataka,Kozhikode,2013-10-12,Complex landslide,4218.567781930715,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00111,28.774422,91.775498,Kerala,Mandi,2019-11-26,Complex landslide,681.8981526403542,0,Medium,Heavy Rainfall,Field Verified
+LS_00112,17.389283,75.600183,Assam,Idukki,1999-04-21,Complex landslide,5124.221043686954,0,Low,Heavy Rainfall,Satellite Identified
+LS_00113,29.271184,93.077462,Jammu & Kashmir,Udupi,2018-12-19,Rock fall,4378.045273182993,0,Low,Human Activity,Field Verified
+LS_00114,15.620988,74.529443,Himachal Pradesh,East Khasi Hills,1999-03-21,Complex landslide,4726.721590015363,0,Medium,Human Activity,Satellite Identified
+LS_00115,32.876556,93.372487,Jammu & Kashmir,Tehri Garhwal,2018-09-17,Debris flow,6141.987266962591,0,Low,Heavy Rainfall,Satellite Identified
+LS_00116,17.573775,76.671835,Kerala,Pathanamthitta,2012-09-07,Earth slide,12989.381065270587,0,Low,Snowmelt,Satellite Identified
+LS_00117,9.620615,76.604209,Karnataka,Malappuram,2015-01-03,Debris flow,10197.119656134317,0,Low,Heavy Rainfall,Field Verified
+LS_00118,30.346381,90.859922,Uttarakhand,Hassan,2019-02-05,Rock fall,23.213920331714423,0,Low,Heavy Rainfall,Report Based
+LS_00119,12.502498,73.734766,Himachal Pradesh,East Khasi Hills,2008-01-22,Rock fall,6687.544758327828,0,Low,Heavy Rainfall,Field Verified
+LS_00120,29.234709,84.465723,Kerala,Rudraprayag,2009-02-03,Earth flow,2714.3810812800352,1,Low,Heavy Rainfall,Satellite Identified
+LS_00121,28.091661,87.934285,Meghalaya,West Garo Hills,2003-08-31,Debris slide,980.293200996241,2,Low,Heavy Rainfall,Field Verified
+LS_00122,34.97812,84.546095,Karnataka,Wayanad,2018-11-11,Earth flow,4524.096620444729,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00123,29.435977,78.004442,Karnataka,Chamoli,2005-05-07,Rock fall,186.17170928836083,0,Low,Heavy Rainfall,Satellite Identified
+LS_00124,13.892755,74.621951,Assam,South Garo Hills,2014-11-02,Rock slide,2905.9073589379013,0,Low,Heavy Rainfall,Field Verified
+LS_00125,34.032499,93.868425,Himachal Pradesh,South Garo Hills,2008-11-22,Debris flow,2336.5109373756927,0,Medium,Heavy Rainfall,Field Verified
+LS_00126,29.093068,89.035417,Tamil Nadu,Hassan,1999-11-04,Complex landslide,5378.248911587679,0,Low,Heavy Rainfall,Satellite Identified
+LS_00127,8.256237,72.520543,Sikkim,East Khasi Hills,2001-02-03,Earth slide,8045.0921364812075,0,Medium,Heavy Rainfall,Field Verified
+LS_00128,29.702205,89.167606,Meghalaya,Chamoli,2016-11-04,Complex landslide,9679.181687269647,0,Low,Heavy Rainfall,Field Verified
+LS_00129,11.81092,76.481679,Jammu & Kashmir,Malappuram,2018-08-16,Earth flow,65.43594198142502,0,Low,Heavy Rainfall,Field Verified
+LS_00130,15.57954,74.107123,Meghalaya,Pathanamthitta,2022-02-21,Complex landslide,11159.315104109137,0,Low,Heavy Rainfall,Satellite Identified
+LS_00131,15.673834,73.340318,Kerala,Pithoragarh,2012-06-16,Debris flow,4892.811227735438,0,Low,Heavy Rainfall,Field Verified
+LS_00132,20.329893,75.818029,Meghalaya,Dakshina Kannada,2008-12-09,Complex landslide,754.7724906151043,0,Low,Human Activity,Satellite Identified
+LS_00133,13.527776,72.112347,Meghalaya,Idukki,1999-04-16,Earth flow,1564.5027388824335,0,Medium,Heavy Rainfall,Field Verified
+LS_00134,18.854093,76.922011,Tamil Nadu,Mandi,2007-07-08,Earth slide,3729.4727348604347,0,Low,Heavy Rainfall,Report Based
+LS_00135,9.530764,74.882582,Sikkim,Rudraprayag,2010-05-24,Rock slide,1601.4066430139644,0,Medium,Earthquake,Field Verified
+LS_00136,28.076971,76.874598,Assam,Kodagu,2008-10-29,Rock slide,11513.857644265909,0,Low,Heavy Rainfall,Satellite Identified
+LS_00137,10.279827,76.57206,Meghalaya,Rudraprayag,2020-01-07,Debris slide,2713.04817173159,0,Low,Heavy Rainfall,Field Verified
+LS_00138,17.594437,72.413993,Assam,South Garo Hills,2007-12-10,Rock slide,4621.011094925578,0,Low,Heavy Rainfall,Satellite Identified
+LS_00139,17.347597,73.485609,Meghalaya,Hassan,2014-07-22,Earth slide,4178.217653528511,0,Medium,Human Activity,Satellite Identified
+LS_00140,10.794225,72.155916,Tamil Nadu,Wayanad,2022-09-09,Topple,1520.8465100279395,0,Low,Heavy Rainfall,Satellite Identified
+LS_00141,12.345171,75.854561,Karnataka,Lahaul Spiti,2011-10-03,Debris slide,563.59457382339,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00142,31.043791,79.174443,Himachal Pradesh,Hassan,2012-02-26,Earth flow,8549.11849285598,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00143,30.526817,75.923224,Meghalaya,Mandi,2007-09-16,Debris flow,12463.499217688208,0,High,Heavy Rainfall,Field Verified
+LS_00144,31.793307,92.331863,Karnataka,Lahaul Spiti,2006-09-16,Earth slide,6588.038895652368,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00145,29.747676,84.277924,Uttarakhand,South Garo Hills,2011-07-24,Earth flow,1250.0656455306116,3,High,Heavy Rainfall,Satellite Identified
+LS_00146,20.028228,72.902877,Uttarakhand,Hassan,2000-01-16,Debris flow,4196.014588229511,1,Low,Heavy Rainfall,Field Verified
+LS_00147,34.470773,94.392223,Himachal Pradesh,Rudraprayag,2020-01-08,Debris flow,14435.868406204872,0,Medium,Earthquake,Satellite Identified
+LS_00148,18.775901,72.185038,Meghalaya,Idukki,2019-06-23,Earth flow,4535.043201439034,0,Low,Heavy Rainfall,Satellite Identified
+LS_00149,30.379125,89.220102,Meghalaya,Chamoli,2009-04-29,Debris slide,337.94967744737164,0,Low,Earthquake,Satellite Identified
+LS_00150,16.136588,76.429889,Himachal Pradesh,Dakshina Kannada,2020-01-22,Rock fall,4783.782545360431,0,Low,Human Activity,Field Verified
+LS_00151,34.122912,85.10768,Arunachal Pradesh,Kullu,2004-09-10,Debris slide,13989.959213963315,0,High,Heavy Rainfall,Satellite Identified
+LS_00152,30.813516,84.077388,Sikkim,Malappuram,2003-04-25,Rock slide,4937.664538140577,0,High,Earthquake,Satellite Identified
+LS_00153,13.477641,75.687912,Meghalaya,Kullu,2018-03-18,Complex landslide,1364.1456002979714,0,Low,Heavy Rainfall,Field Verified
+LS_00154,11.036901,72.210466,Arunachal Pradesh,Chamoli,2000-09-13,Rock slide,90.1780141597453,3,Low,Heavy Rainfall,Satellite Identified
+LS_00155,29.527777,93.949185,Himachal Pradesh,Shimla,2009-11-14,Rock slide,7716.963909377931,0,Low,Human Activity,Report Based
+LS_00156,31.271811,86.881639,Himachal Pradesh,Shimla,2022-10-05,Rock fall,913.8119462839927,5,Low,Human Activity,Satellite Identified
+LS_00157,15.900578,74.563443,Arunachal Pradesh,Kodagu,2018-03-18,Debris flow,1311.1751402598131,0,Low,Heavy Rainfall,Satellite Identified
+LS_00158,30.450877,75.214696,Karnataka,South Garo Hills,2008-05-20,Debris flow,17385.42108263387,0,High,Snowmelt,Field Verified
+LS_00159,13.151146,75.791192,Kerala,Mandi,2001-03-12,Rock slide,5953.977012106687,0,Medium,Heavy Rainfall,Field Verified
+LS_00160,14.980667,74.9647,Sikkim,Lahaul Spiti,2003-02-24,Earth flow,4338.529227647337,0,Medium,Heavy Rainfall,Field Verified
+LS_00161,19.553725,76.778257,Himachal Pradesh,Tehri Garhwal,2004-05-19,Earth flow,9907.133922374811,0,Medium,Heavy Rainfall,Field Verified
+LS_00162,13.309892,73.863443,Meghalaya,Chamoli,2010-12-12,Topple,1503.8621173814224,0,Low,Heavy Rainfall,Field Verified
+LS_00163,16.882364,72.380654,Karnataka,Chikmagalur,2016-01-21,Topple,9525.993115221025,0,Low,Heavy Rainfall,Satellite Identified
+LS_00164,12.52152,75.390081,Arunachal Pradesh,Tehri Garhwal,2001-08-10,Complex landslide,4170.4667051748675,0,Medium,Earthquake,Satellite Identified
+LS_00165,19.057562,76.336471,Uttarakhand,Pithoragarh,2009-03-26,Rock slide,6161.226604546555,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00166,33.269016,77.330707,Arunachal Pradesh,Tehri Garhwal,2010-02-02,Earth flow,10637.731590260766,0,Low,Earthquake,Field Verified
+LS_00167,12.356545,75.717541,Meghalaya,Mandi,2021-04-12,Earth flow,876.2921736478158,0,Medium,Heavy Rainfall,Field Verified
+LS_00168,11.731496,75.084635,Himachal Pradesh,Kodagu,2020-01-22,Earth slide,19865.81733987204,0,Low,Heavy Rainfall,Satellite Identified
+LS_00169,18.13799,72.534903,Tamil Nadu,West Garo Hills,2012-12-13,Debris slide,7157.042403682414,0,High,Heavy Rainfall,Satellite Identified
+LS_00170,34.524197,76.152704,Assam,South Garo Hills,2012-10-17,Topple,13841.269634193843,0,Low,Heavy Rainfall,Satellite Identified
+LS_00171,8.875558,74.910852,Sikkim,Tehri Garhwal,2015-12-19,Topple,2122.3456575568057,0,Low,Human Activity,Report Based
+LS_00172,34.782145,89.742688,Karnataka,Idukki,2012-02-10,Debris slide,696.8059941690288,0,Low,Heavy Rainfall,Satellite Identified
+LS_00173,14.352361,75.852037,Uttarakhand,West Garo Hills,2021-01-31,Topple,5748.928634454094,0,Low,Snowmelt,Satellite Identified
+LS_00174,13.868031,72.818119,Kerala,Chikmagalur,2000-06-07,Earth slide,7919.083503186542,0,Low,Heavy Rainfall,Satellite Identified
+LS_00175,16.508646,73.366298,Uttarakhand,Kinnaur,2017-10-30,Debris flow,15065.772031925546,0,Low,Human Activity,Satellite Identified
+LS_00176,32.469682,82.349482,Meghalaya,South Garo Hills,2010-12-03,Topple,1602.5086503344064,3,Low,Human Activity,Field Verified
+LS_00177,29.491733,74.653816,Arunachal Pradesh,Lahaul Spiti,1999-04-18,Earth flow,5272.979294379948,0,Medium,Heavy Rainfall,Report Based
+LS_00178,10.411832,76.343116,Uttarakhand,Hassan,2022-09-16,Complex landslide,7493.886523371488,0,Medium,Earthquake,Satellite Identified
+LS_00179,28.918714,74.68305,Himachal Pradesh,Pathanamthitta,2008-01-30,Debris slide,12681.91650907132,0,Medium,Heavy Rainfall,Field Verified
+LS_00180,28.876301,88.396871,Karnataka,Chikmagalur,2020-05-10,Debris flow,2813.2785996209514,0,Low,Heavy Rainfall,Satellite Identified
+LS_00181,11.496914,75.987796,Meghalaya,Lahaul Spiti,2019-08-24,Topple,1857.941985900969,0,Low,Heavy Rainfall,Satellite Identified
+LS_00182,31.359572,86.600432,Kerala,Udupi,2015-03-17,Earth flow,1724.1735753722908,0,Medium,Earthquake,Field Verified
+LS_00183,31.363549,76.203534,Assam,Idukki,2010-05-24,Debris flow,1385.6564139235911,3,Low,Heavy Rainfall,Satellite Identified
+LS_00184,32.917255,85.752622,Karnataka,Dakshina Kannada,2010-09-09,Topple,49.09447692281613,0,Low,Heavy Rainfall,Satellite Identified
+LS_00185,28.232422,75.650148,Sikkim,Kodagu,2018-01-12,Earth slide,2528.554267677974,0,Low,Heavy Rainfall,Satellite Identified
+LS_00186,10.601953,72.837413,Sikkim,Kozhikode,2022-10-04,Topple,552.2440864253783,0,Medium,Heavy Rainfall,Report Based
+LS_00187,8.675627,74.706482,Kerala,Dakshina Kannada,2006-06-18,Complex landslide,6173.200020306195,0,Medium,Earthquake,Satellite Identified
+LS_00188,33.703776,75.682412,Uttarakhand,Idukki,2016-06-05,Topple,11260.251593926081,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00189,14.843235,75.657948,Jammu & Kashmir,Kodagu,2015-04-27,Rock fall,425.7744994447808,0,Low,Heavy Rainfall,Satellite Identified
+LS_00190,29.534498,94.49317,Arunachal Pradesh,Idukki,2020-07-13,Debris slide,2054.1156216571467,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00191,15.219726,75.596009,Sikkim,Pathanamthitta,2002-06-22,Rock fall,1296.7997284335336,10,High,Heavy Rainfall,Field Verified
+LS_00192,32.761598,75.516167,Jammu & Kashmir,Pithoragarh,2016-05-23,Topple,155.6605826180974,0,Low,Human Activity,Satellite Identified
+LS_00193,17.655185,74.127467,Arunachal Pradesh,South Garo Hills,2013-03-09,Complex landslide,2122.742663447413,0,High,Heavy Rainfall,Satellite Identified
+LS_00194,32.050728,83.210924,Sikkim,Kozhikode,2012-09-27,Earth slide,6459.607837444352,0,Medium,Human Activity,Satellite Identified
+LS_00195,11.598761,74.961752,Uttarakhand,Udupi,2022-04-09,Debris slide,12172.779697617994,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00196,28.920974,89.032324,Kerala,Pithoragarh,2010-11-22,Complex landslide,11986.266031446225,0,Low,Snowmelt,Field Verified
+LS_00197,33.980696,84.337835,Meghalaya,Shimla,2002-07-05,Debris flow,1419.9848499718523,0,Low,Heavy Rainfall,Satellite Identified
+LS_00198,32.150656,77.434001,Tamil Nadu,Tehri Garhwal,2000-01-24,Debris flow,2480.354531817368,2,Low,Heavy Rainfall,Satellite Identified
+LS_00199,18.055151,72.654368,Assam,Uttarkashi,2014-10-25,Rock slide,17503.052272122,0,Low,Heavy Rainfall,Field Verified
+LS_00200,14.757061,73.685016,Jammu & Kashmir,Shimla,2006-01-29,Debris slide,8827.049420610787,0,Low,Heavy Rainfall,Satellite Identified
+LS_00201,10.171545,72.838096,Meghalaya,Dakshina Kannada,2008-10-20,Earth flow,186.8036400474137,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00202,33.639691,86.292442,Karnataka,Pathanamthitta,2018-09-08,Debris flow,10135.053132645013,0,Low,Heavy Rainfall,Field Verified
+LS_00203,31.718187,93.66872,Karnataka,West Garo Hills,2018-11-14,Earth flow,200.69208204691117,0,Low,Human Activity,Satellite Identified
+LS_00204,31.550644,74.87303,Tamil Nadu,Dakshina Kannada,2017-10-25,Debris flow,802.8582566820946,3,High,Heavy Rainfall,Report Based
+LS_00205,16.308559,76.339591,Meghalaya,Kullu,2009-03-21,Rock slide,3032.4613454600476,0,Low,Heavy Rainfall,Field Verified
+LS_00206,8.389657,73.53965,Himachal Pradesh,Lahaul Spiti,2019-09-04,Complex landslide,6098.491737704197,0,Medium,Snowmelt,Field Verified
+LS_00207,16.743828,74.218751,Karnataka,Rudraprayag,2011-04-10,Complex landslide,10130.158110967583,0,Medium,Earthquake,Report Based
+LS_00208,16.882224,74.485874,Arunachal Pradesh,West Garo Hills,1998-05-13,Rock fall,4809.674277754708,0,Low,Heavy Rainfall,Report Based
+LS_00209,16.963848,75.382567,Kerala,Udupi,2010-11-03,Earth slide,1214.6599900901197,0,Low,Heavy Rainfall,Field Verified
+LS_00210,32.604917,94.987688,Arunachal Pradesh,Mandi,2006-07-13,Earth flow,247.06499447150344,3,Low,Human Activity,Satellite Identified
+LS_00211,31.969114,89.507433,Karnataka,Pathanamthitta,1999-10-08,Rock fall,10539.845504791698,0,Low,Heavy Rainfall,Satellite Identified
+LS_00212,17.909707,75.989068,Himachal Pradesh,Kullu,2003-11-24,Earth slide,2859.8124837094324,0,Low,Heavy Rainfall,Field Verified
+LS_00213,12.219616,73.832308,Kerala,Uttarkashi,2005-11-17,Earth slide,2522.335175943337,0,Low,Heavy Rainfall,Field Verified
+LS_00214,12.852273,73.136348,Karnataka,Kodagu,2005-05-19,Debris flow,380.0654412769361,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00215,12.937215,76.316668,Meghalaya,Pithoragarh,2003-03-02,Earth flow,3660.290274007968,0,Low,Heavy Rainfall,Satellite Identified
+LS_00216,30.791759,86.18362,Sikkim,Wayanad,2015-10-30,Debris slide,3813.5855217643443,0,Medium,Earthquake,Satellite Identified
+LS_00217,20.421808,72.091163,Karnataka,Hassan,1998-08-17,Debris slide,1089.3995535625647,0,Medium,Human Activity,Field Verified
+LS_00218,20.051449,72.301337,Karnataka,Dakshina Kannada,2014-07-14,Complex landslide,13623.64461500059,0,Low,Heavy Rainfall,Field Verified
+LS_00219,11.703348,73.53645,Kerala,Kodagu,2002-11-11,Rock fall,8123.415099827117,0,Low,Heavy Rainfall,Satellite Identified
+LS_00220,11.544112,74.067746,Himachal Pradesh,East Khasi Hills,2007-12-06,Topple,649.8947976070027,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00221,17.217601,72.534385,Himachal Pradesh,Uttarkashi,2016-04-25,Rock fall,4188.694362840734,0,High,Heavy Rainfall,Satellite Identified
+LS_00222,31.851586,74.911663,Meghalaya,Chamoli,2011-08-27,Debris slide,5014.029917871761,2,Medium,Earthquake,Satellite Identified
+LS_00223,29.596558,78.452942,Jammu & Kashmir,Kozhikode,2022-02-11,Topple,4720.635323547652,0,Medium,Human Activity,Satellite Identified
+LS_00224,11.079317,75.902628,Assam,Dakshina Kannada,2022-03-26,Earth flow,1606.5806136708288,0,Low,Heavy Rainfall,Field Verified
+LS_00225,16.110171,74.258838,Meghalaya,Udupi,2002-06-11,Complex landslide,4416.800520333024,0,Medium,Human Activity,Field Verified
+LS_00226,9.244289,72.118193,Tamil Nadu,Kinnaur,1999-06-21,Topple,5135.713440247937,0,Low,Heavy Rainfall,Satellite Identified
+LS_00227,15.728192,74.483834,Tamil Nadu,Chamoli,2008-08-04,Earth slide,22025.665816906632,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00228,17.328771,75.462181,Assam,Mandi,2000-09-19,Rock slide,23696.934039321848,0,Low,Heavy Rainfall,Satellite Identified
+LS_00229,29.919125,75.667807,Himachal Pradesh,West Garo Hills,2018-05-26,Rock slide,447.7543553195397,0,Low,Heavy Rainfall,Field Verified
+LS_00230,30.484974,75.457901,Tamil Nadu,Lahaul Spiti,2000-04-08,Earth flow,3660.061610127674,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00231,34.160554,87.668425,Sikkim,Kinnaur,2001-01-29,Rock slide,3806.6781628736585,0,Low,Heavy Rainfall,Report Based
+LS_00232,32.632874,85.713452,Jammu & Kashmir,Udupi,2012-09-27,Rock fall,6558.727620964057,0,Low,Heavy Rainfall,Report Based
+LS_00233,10.278938,75.450024,Jammu & Kashmir,Hassan,2004-06-28,Debris flow,1121.5567187112897,0,Low,Heavy Rainfall,Satellite Identified
+LS_00234,30.433001,87.963146,Uttarakhand,Uttarkashi,2002-12-07,Rock fall,7934.713214581751,1,Low,Heavy Rainfall,Field Verified
+LS_00235,20.902286,76.635005,Arunachal Pradesh,Idukki,2008-09-03,Rock fall,3882.1779939956136,0,Low,Heavy Rainfall,Field Verified
+LS_00236,33.286893,76.681983,Uttarakhand,Uttarkashi,2009-11-26,Complex landslide,8745.443674676697,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00237,29.841788,81.562865,Meghalaya,Pathanamthitta,2000-11-07,Earth slide,458.6182028618881,1,Low,Heavy Rainfall,Satellite Identified
+LS_00238,31.130418,86.612481,Sikkim,Lahaul Spiti,2018-04-11,Rock fall,3625.041260227198,1,Low,Snowmelt,Satellite Identified
+LS_00239,10.710637,76.652976,Uttarakhand,Tehri Garhwal,2018-07-19,Topple,618.5638975497147,0,Low,Human Activity,Satellite Identified
+LS_00240,18.47703,75.950152,Himachal Pradesh,Kodagu,2017-02-14,Topple,1816.9093479589337,0,Low,Heavy Rainfall,Satellite Identified
+LS_00241,30.422698,94.487814,Tamil Nadu,Udupi,2001-08-16,Earth flow,5121.775572680622,0,Low,Human Activity,Report Based
+LS_00242,31.409433,86.731312,Karnataka,Udupi,2003-08-30,Earth slide,7236.803671659189,0,Low,Heavy Rainfall,Field Verified
+LS_00243,12.777947,72.340862,Karnataka,Pathanamthitta,2021-10-19,Complex landslide,130.75439984406324,0,High,Heavy Rainfall,Report Based
+LS_00244,31.027485,80.548139,Sikkim,Kinnaur,2003-02-18,Complex landslide,3527.5348738864986,0,Low,Heavy Rainfall,Field Verified
+LS_00245,16.054643,75.251005,Assam,Idukki,2008-04-01,Topple,824.5197577722321,0,Medium,Heavy Rainfall,Field Verified
+LS_00246,20.933262,72.288903,Himachal Pradesh,Idukki,2016-08-29,Complex landslide,5937.795067500756,3,Low,Heavy Rainfall,Field Verified
+LS_00247,11.942577,72.505229,Tamil Nadu,Uttarkashi,2009-06-08,Topple,5890.897349640917,0,Low,Snowmelt,Satellite Identified
+LS_00248,32.306536,80.431326,Himachal Pradesh,Pithoragarh,2002-02-03,Complex landslide,4889.445714095118,0,Low,Heavy Rainfall,Satellite Identified
+LS_00249,31.148493,78.087073,Jammu & Kashmir,Hassan,2014-09-19,Rock fall,2292.4259169146762,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00250,8.143406,74.08077,Assam,Wayanad,2003-06-26,Complex landslide,3282.5736051908034,0,Low,Earthquake,Field Verified
+LS_00251,31.747171,78.519239,Arunachal Pradesh,Kullu,2010-11-26,Earth slide,60.9741512438881,0,High,Earthquake,Report Based
+LS_00252,31.414978,76.30446,Kerala,Uttarkashi,2020-10-05,Topple,3969.917385008472,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00253,29.050341,80.818194,Tamil Nadu,Hassan,2002-11-09,Earth slide,6684.799390123954,0,Low,Heavy Rainfall,Satellite Identified
+LS_00254,33.495116,92.733778,Arunachal Pradesh,Lahaul Spiti,2010-07-01,Complex landslide,15542.790315111499,0,Low,Heavy Rainfall,Satellite Identified
+LS_00255,29.782694,91.658303,Uttarakhand,Shimla,2009-12-30,Debris flow,195.92058371878028,1,Low,Heavy Rainfall,Satellite Identified
+LS_00256,19.636531,75.183348,Tamil Nadu,Rudraprayag,2013-03-30,Earth flow,4758.72932055436,0,Low,Heavy Rainfall,Satellite Identified
+LS_00257,31.585553,88.284783,Himachal Pradesh,Uttarkashi,2015-12-24,Rock fall,212.83059708177177,0,Medium,Heavy Rainfall,Field Verified
+LS_00258,28.084759,94.086529,Kerala,Kozhikode,2021-10-18,Complex landslide,6687.680215078304,0,Low,Heavy Rainfall,Satellite Identified
+LS_00259,16.597818,72.925978,Jammu & Kashmir,Wayanad,2013-04-17,Debris flow,956.4644072751096,0,Medium,Earthquake,Field Verified
+LS_00260,8.272284,72.410858,Uttarakhand,Uttarkashi,2001-10-23,Earth flow,17188.275014186715,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00261,29.439811,76.549115,Karnataka,Pathanamthitta,2001-08-29,Complex landslide,4772.728142397403,0,Medium,Heavy Rainfall,Field Verified
+LS_00262,20.590354,75.993571,Assam,Mandi,2017-10-30,Rock slide,1732.3646431882362,3,Medium,Heavy Rainfall,Satellite Identified
+LS_00263,33.682389,87.786051,Assam,Chamoli,2013-06-26,Debris flow,685.3783099019248,0,High,Heavy Rainfall,Satellite Identified
+LS_00264,13.616999,74.197025,Karnataka,Tehri Garhwal,2021-08-21,Rock slide,4745.87240276116,2,Low,Heavy Rainfall,Field Verified
+LS_00265,19.530024,75.229054,Uttarakhand,Kinnaur,2000-06-16,Debris flow,1683.708889395092,0,Medium,Earthquake,Report Based
+LS_00266,29.765687,89.855881,Karnataka,Kullu,2004-02-27,Earth slide,3085.928539260571,0,Medium,Earthquake,Satellite Identified
+LS_00267,29.242001,85.445565,Meghalaya,Malappuram,1998-05-07,Earth flow,20889.632975084725,1,Low,Heavy Rainfall,Field Verified
+LS_00268,33.081859,91.173492,Sikkim,South Garo Hills,2015-01-21,Rock slide,1200.8850417502645,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00269,15.67452,74.541803,Assam,Tehri Garhwal,2001-03-26,Complex landslide,1765.8942500081025,0,Medium,Human Activity,Satellite Identified
+LS_00270,33.327851,77.361504,Himachal Pradesh,Idukki,2018-08-16,Complex landslide,3095.3725933318797,0,Low,Heavy Rainfall,Report Based
+LS_00271,9.289315,74.007472,Karnataka,Chamoli,2016-09-26,Complex landslide,8048.964094508741,0,Low,Heavy Rainfall,Satellite Identified
+LS_00272,29.316173,81.463076,Jammu & Kashmir,Udupi,2012-07-27,Topple,7657.566874469938,0,Low,Earthquake,Field Verified
+LS_00273,17.694539,73.012403,Assam,Chamoli,2001-12-14,Rock slide,15859.183597798929,0,Low,Heavy Rainfall,Satellite Identified
+LS_00274,19.39646,76.981672,Sikkim,Pithoragarh,2015-12-18,Complex landslide,2296.7788413439007,0,Medium,Human Activity,Satellite Identified
+LS_00275,13.089834,74.063109,Kerala,Idukki,2013-03-25,Earth flow,5947.361343779222,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00276,28.650934,86.352248,Himachal Pradesh,Chikmagalur,2020-11-24,Rock slide,3278.995809468057,0,Low,Heavy Rainfall,Satellite Identified
+LS_00277,15.288581,75.017438,Jammu & Kashmir,Lahaul Spiti,2013-10-01,Debris slide,5642.28528911877,0,Low,Earthquake,Satellite Identified
+LS_00278,28.539408,75.22957,Kerala,Shimla,2009-06-25,Earth flow,2034.1175418012745,0,Medium,Earthquake,Satellite Identified
+LS_00279,31.081393,77.096503,Meghalaya,Pathanamthitta,2005-12-12,Topple,1988.9190766618265,0,Low,Heavy Rainfall,Satellite Identified
+LS_00280,17.56362,76.991738,Jammu & Kashmir,Pathanamthitta,2012-03-07,Debris slide,13523.778022021577,0,Low,Heavy Rainfall,Satellite Identified
+LS_00281,9.53837,74.049524,Karnataka,Mandi,2017-11-02,Rock fall,9156.732559190154,0,Low,Heavy Rainfall,Field Verified
+LS_00282,12.709061,73.672556,Himachal Pradesh,Kullu,2020-10-04,Topple,132.72977607334806,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00283,11.883432,76.703396,Uttarakhand,Wayanad,1999-09-09,Debris flow,1500.7760910029715,0,Medium,Earthquake,Field Verified
+LS_00284,33.618503,83.621925,Arunachal Pradesh,Udupi,2002-01-19,Complex landslide,3298.260987768963,0,Low,Heavy Rainfall,Satellite Identified
+LS_00285,13.679059,75.647541,Uttarakhand,Pathanamthitta,2022-11-12,Rock slide,7251.773494836926,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00286,16.540417,76.783073,Sikkim,Uttarkashi,2019-05-03,Rock fall,357.2545375426614,0,Low,Heavy Rainfall,Field Verified
+LS_00287,19.78131,73.247731,Tamil Nadu,South Garo Hills,2002-08-23,Debris slide,1586.925878270974,0,Low,Earthquake,Field Verified
+LS_00288,31.412998,74.705886,Kerala,South Garo Hills,1999-10-04,Topple,323.5097575531596,1,Low,Heavy Rainfall,Satellite Identified
+LS_00289,12.515463,76.499167,Sikkim,Udupi,2021-07-05,Earth flow,110.32524677500764,0,High,Heavy Rainfall,Report Based
+LS_00290,8.679352,74.093967,Karnataka,Kozhikode,2014-09-22,Complex landslide,1506.5917327534437,0,High,Heavy Rainfall,Satellite Identified
+LS_00291,10.575269,74.826651,Tamil Nadu,Pithoragarh,2000-05-07,Earth slide,3117.4758408616094,3,Medium,Heavy Rainfall,Field Verified
+LS_00292,29.058728,78.731656,Karnataka,Mandi,2015-05-05,Earth flow,1444.8589278068491,0,Low,Heavy Rainfall,Field Verified
+LS_00293,19.181816,75.614072,Arunachal Pradesh,West Garo Hills,2001-08-28,Earth flow,350.33346359758156,0,Low,Heavy Rainfall,Satellite Identified
+LS_00294,14.301052,72.828873,Assam,Uttarkashi,2011-12-01,Debris slide,14565.98463699748,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00295,16.462655,74.727159,Tamil Nadu,Uttarkashi,2014-11-24,Debris slide,321.48265013563275,0,Medium,Heavy Rainfall,Field Verified
+LS_00296,18.221617,73.006819,Tamil Nadu,Rudraprayag,2020-10-23,Earth slide,1496.2154537418512,0,Low,Earthquake,Satellite Identified
+LS_00297,10.663457,76.38915,Kerala,Idukki,2006-02-01,Topple,10583.925255399172,0,Low,Heavy Rainfall,Report Based
+LS_00298,33.404087,74.570516,Jammu & Kashmir,Uttarkashi,2008-02-29,Debris slide,337.13793909555255,0,High,Heavy Rainfall,Satellite Identified
+LS_00299,9.371158,75.283901,Sikkim,Hassan,2002-07-16,Rock fall,8632.757253150998,0,Medium,Snowmelt,Field Verified
+LS_00300,14.803285,73.43569,Arunachal Pradesh,Kozhikode,2003-11-18,Earth flow,7871.66721608737,0,Medium,Earthquake,Satellite Identified
+LS_00301,34.40563,85.193606,Arunachal Pradesh,Shimla,2006-02-10,Topple,859.6080579465919,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00302,34.343003,79.814994,Tamil Nadu,West Garo Hills,2016-06-06,Rock slide,20528.485611408694,0,Low,Heavy Rainfall,Satellite Identified
+LS_00303,16.505803,72.760521,Meghalaya,Lahaul Spiti,2010-10-13,Rock slide,2901.9809744493596,0,Low,Human Activity,Satellite Identified
+LS_00304,14.567688,76.835633,Kerala,Wayanad,2019-01-15,Topple,2704.371135146974,3,Medium,Heavy Rainfall,Field Verified
+LS_00305,19.465061,74.137448,Assam,Chikmagalur,2010-08-22,Complex landslide,885.0787224134219,0,Low,Heavy Rainfall,Satellite Identified
+LS_00306,34.231806,75.667538,Arunachal Pradesh,Uttarkashi,2006-12-16,Debris flow,6574.456468802963,0,Medium,Earthquake,Satellite Identified
+LS_00307,32.9717,80.601352,Tamil Nadu,Hassan,2019-07-23,Debris slide,3185.421433947308,0,Low,Heavy Rainfall,Satellite Identified
+LS_00308,33.797745,81.039369,Himachal Pradesh,Shimla,2010-10-15,Debris flow,954.359594706478,0,Medium,Heavy Rainfall,Field Verified
+LS_00309,9.845636,73.739707,Jammu & Kashmir,Malappuram,2021-01-10,Debris slide,2992.3767396010608,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00310,33.890133,83.897031,Tamil Nadu,Rudraprayag,2018-03-28,Complex landslide,19341.212082974456,0,Low,Heavy Rainfall,Satellite Identified
+LS_00311,32.80429,75.462464,Sikkim,Wayanad,2015-10-14,Rock slide,961.1409522956076,0,Low,Earthquake,Field Verified
+LS_00312,16.357465,75.470753,Tamil Nadu,Lahaul Spiti,2001-08-30,Rock fall,3593.9124064427474,0,Low,Heavy Rainfall,Satellite Identified
+LS_00313,16.491116,76.691524,Tamil Nadu,Uttarkashi,2002-06-12,Earth flow,10247.646330481997,0,Medium,Heavy Rainfall,Field Verified
+LS_00314,34.350365,88.085379,Meghalaya,South Garo Hills,2010-11-14,Earth flow,4109.912439431902,0,Low,Heavy Rainfall,Satellite Identified
+LS_00315,15.106427,73.902003,Arunachal Pradesh,Rudraprayag,2018-02-14,Debris slide,18818.085801761696,0,Low,Heavy Rainfall,Satellite Identified
+LS_00316,34.426536,79.880784,Kerala,Uttarkashi,2009-06-25,Complex landslide,9771.686477564148,0,High,Earthquake,Satellite Identified
+LS_00317,28.126046,94.219017,Kerala,Kullu,2010-12-04,Debris slide,6485.395260823416,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00318,28.788063,88.777406,Assam,East Khasi Hills,2008-09-11,Topple,3890.2418548362766,0,Low,Heavy Rainfall,Satellite Identified
+LS_00319,30.108857,86.565507,Meghalaya,Udupi,2002-12-22,Rock fall,1763.6835997261835,0,Medium,Heavy Rainfall,Report Based
+LS_00320,33.965847,88.023898,Karnataka,Malappuram,2004-06-10,Rock fall,4497.433200381701,0,Low,Heavy Rainfall,Field Verified
+LS_00321,18.329518,72.173351,Arunachal Pradesh,Malappuram,2008-10-16,Earth flow,4371.029696097836,10,Medium,Heavy Rainfall,Field Verified
+LS_00322,33.819615,86.578549,Tamil Nadu,Pithoragarh,2021-06-25,Rock fall,610.4596365140865,0,High,Heavy Rainfall,Satellite Identified
+LS_00323,19.426726,74.858862,Uttarakhand,East Khasi Hills,2019-02-02,Complex landslide,3643.3158815578936,0,Low,Heavy Rainfall,Satellite Identified
+LS_00324,15.825005,76.462616,Uttarakhand,Wayanad,2009-05-18,Debris slide,2929.36261960972,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00325,11.086635,74.561819,Himachal Pradesh,Dakshina Kannada,2008-10-25,Earth slide,550.3289673916541,0,Low,Heavy Rainfall,Report Based
+LS_00326,32.204557,89.615472,Tamil Nadu,Hassan,1999-12-28,Earth slide,3528.7924442783865,0,Low,Heavy Rainfall,Satellite Identified
+LS_00327,31.307453,74.958624,Meghalaya,East Khasi Hills,2018-11-04,Earth flow,754.254552689986,0,High,Heavy Rainfall,Satellite Identified
+LS_00328,29.372684,86.826381,Meghalaya,Tehri Garhwal,2000-10-30,Debris flow,1647.2671395570603,0,Low,Heavy Rainfall,Field Verified
+LS_00329,29.533482,74.771149,Kerala,Tehri Garhwal,1999-12-19,Earth slide,571.5900958138311,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00330,11.815355,76.658769,Assam,Hassan,2021-02-13,Topple,2529.3151328733416,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00331,14.596355,76.371113,Kerala,Kullu,1999-08-23,Earth slide,3401.614623279765,0,High,Heavy Rainfall,Field Verified
+LS_00332,30.762033,82.858392,Karnataka,Chamoli,2012-11-21,Earth slide,2646.824387031414,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00333,18.709275,76.775303,Meghalaya,Kozhikode,2015-12-11,Earth slide,8607.389054325331,0,Medium,Heavy Rainfall,Field Verified
+LS_00334,28.416673,86.679705,Meghalaya,Wayanad,2020-04-04,Debris flow,5801.213827223803,0,Low,Heavy Rainfall,Satellite Identified
+LS_00335,28.847175,82.797904,Himachal Pradesh,Malappuram,2017-01-16,Earth flow,6955.088448640369,0,Low,Heavy Rainfall,Report Based
+LS_00336,16.691444,75.39335,Himachal Pradesh,Pithoragarh,2012-05-29,Earth slide,2246.457986449028,0,Low,Heavy Rainfall,Report Based
+LS_00337,15.963455,76.368493,Meghalaya,Udupi,2011-10-01,Complex landslide,6436.2839645358035,0,High,Heavy Rainfall,Satellite Identified
+LS_00338,28.99496,74.245839,Tamil Nadu,Pathanamthitta,2017-11-29,Rock fall,2741.2034282186883,0,Low,Heavy Rainfall,Field Verified
+LS_00339,9.599043,74.793212,Karnataka,East Khasi Hills,2017-07-06,Rock fall,2101.6300809552895,0,Medium,Earthquake,Satellite Identified
+LS_00340,31.009518,88.132299,Tamil Nadu,Chikmagalur,2016-03-22,Earth flow,1610.5475999006462,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00341,33.756957,92.008809,Arunachal Pradesh,West Garo Hills,2004-05-28,Topple,12422.647754965885,0,Low,Heavy Rainfall,Satellite Identified
+LS_00342,32.207519,88.817303,Himachal Pradesh,Lahaul Spiti,2003-08-31,Earth slide,5830.255353370436,0,Low,Heavy Rainfall,Field Verified
+LS_00343,19.571261,73.729387,Arunachal Pradesh,Tehri Garhwal,2015-03-05,Earth flow,838.8975176259995,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00344,8.932255,74.048144,Tamil Nadu,Pathanamthitta,2014-08-22,Debris slide,1864.1486276414166,0,Medium,Heavy Rainfall,Field Verified
+LS_00345,34.916252,83.534034,Tamil Nadu,Kozhikode,2021-10-01,Earth slide,5828.157192596624,0,Low,Heavy Rainfall,Satellite Identified
+LS_00346,20.532226,73.921034,Himachal Pradesh,Rudraprayag,2009-03-13,Earth flow,198.8836038739157,0,Low,Heavy Rainfall,Field Verified
+LS_00347,17.830777,74.292615,Assam,Hassan,2021-03-23,Debris slide,1707.135864146678,1,Low,Snowmelt,Satellite Identified
+LS_00348,19.549248,75.014714,Meghalaya,Kinnaur,2009-09-04,Debris flow,8763.86775688192,3,Low,Snowmelt,Satellite Identified
+LS_00349,13.011655,73.701936,Himachal Pradesh,Uttarkashi,2006-12-24,Debris slide,3897.9674844694014,0,Low,Heavy Rainfall,Satellite Identified
+LS_00350,18.83745,74.202207,Meghalaya,Pithoragarh,2005-09-29,Earth slide,1800.0686241447333,0,Low,Heavy Rainfall,Satellite Identified
+LS_00351,11.51322,76.832087,Sikkim,Hassan,2000-11-29,Debris flow,4078.934248270577,0,Low,Heavy Rainfall,Satellite Identified
+LS_00352,16.141046,74.444489,Jammu & Kashmir,Wayanad,2005-01-24,Rock slide,2568.97347427876,5,Medium,Heavy Rainfall,Satellite Identified
+LS_00353,32.344623,78.227554,Jammu & Kashmir,Lahaul Spiti,2007-01-06,Topple,2513.772608450984,0,Low,Heavy Rainfall,Field Verified
+LS_00354,34.748202,93.098547,Sikkim,Dakshina Kannada,2014-03-10,Earth slide,6403.247667618975,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00355,9.622671,75.971053,Jammu & Kashmir,Udupi,2022-09-30,Debris slide,1613.2144989567132,0,High,Heavy Rainfall,Satellite Identified
+LS_00356,34.866912,84.151556,Assam,South Garo Hills,2011-11-16,Topple,9958.894376326063,0,Low,Heavy Rainfall,Field Verified
+LS_00357,17.903376,73.932703,Arunachal Pradesh,Pithoragarh,2016-05-14,Earth flow,3579.781328070311,0,Low,Human Activity,Report Based
+LS_00358,13.298595,76.137595,Meghalaya,Pathanamthitta,2001-04-30,Earth slide,7230.8119825129315,0,High,Heavy Rainfall,Field Verified
+LS_00359,33.977734,83.222146,Arunachal Pradesh,Shimla,2022-09-24,Earth flow,9385.569055162965,0,Low,Human Activity,Satellite Identified
+LS_00360,14.635622,75.132963,Uttarakhand,Chamoli,2020-07-22,Earth flow,13044.369797823878,0,Low,Heavy Rainfall,Satellite Identified
+LS_00361,17.002922,72.672176,Jammu & Kashmir,Idukki,2005-05-21,Rock slide,1779.0593565488703,0,Medium,Heavy Rainfall,Field Verified
+LS_00362,20.446824,72.044316,Karnataka,Pithoragarh,2021-04-11,Debris flow,30644.114969520433,0,Medium,Heavy Rainfall,Field Verified
+LS_00363,33.165087,91.517037,Karnataka,Uttarkashi,2022-09-16,Debris flow,6744.53301774047,0,Medium,Earthquake,Satellite Identified
+LS_00364,33.362812,91.76435,Jammu & Kashmir,Dakshina Kannada,2020-07-18,Earth flow,4754.4641215646525,0,Low,Heavy Rainfall,Satellite Identified
+LS_00365,30.849745,75.386207,Arunachal Pradesh,Tehri Garhwal,2013-02-22,Rock fall,2144.8499864969035,0,Medium,Human Activity,Field Verified
+LS_00366,34.685806,84.974109,Arunachal Pradesh,Mandi,2000-01-15,Rock slide,1780.2733813930101,0,Low,Earthquake,Satellite Identified
+LS_00367,8.652938,72.364509,Meghalaya,East Khasi Hills,1999-05-12,Debris flow,2578.1296560804385,0,Low,Heavy Rainfall,Satellite Identified
+LS_00368,20.079965,74.025513,Kerala,West Garo Hills,2019-08-31,Complex landslide,11828.210341214452,0,Low,Heavy Rainfall,Satellite Identified
+LS_00369,20.726754,75.017465,Himachal Pradesh,South Garo Hills,2018-05-06,Rock fall,2214.3871430334207,0,Low,Human Activity,Satellite Identified
+LS_00370,31.145448,86.303161,Assam,Kodagu,2017-09-20,Topple,4901.265265759135,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00371,33.757744,90.883129,Arunachal Pradesh,Uttarkashi,2013-04-05,Earth slide,4020.404515374513,0,Low,Earthquake,Field Verified
+LS_00372,14.45704,73.42137,Assam,Uttarkashi,2013-06-29,Earth slide,718.360974536481,0,Low,Heavy Rainfall,Satellite Identified
+LS_00373,28.000943,84.733712,Kerala,Pathanamthitta,2012-04-25,Debris slide,239.92496180626088,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00374,8.049659,73.234119,Kerala,Uttarkashi,2018-03-03,Debris slide,6752.784231555521,0,Low,Heavy Rainfall,Field Verified
+LS_00375,33.898983,80.580306,Assam,Udupi,2011-01-07,Complex landslide,7777.885788656753,0,Low,Human Activity,Satellite Identified
+LS_00376,34.748549,75.87508,Tamil Nadu,Dakshina Kannada,2005-03-01,Earth slide,5808.068223299942,0,Low,Heavy Rainfall,Satellite Identified
+LS_00377,28.030543,77.506015,Meghalaya,Chikmagalur,2005-02-23,Topple,6242.167656343331,0,High,Earthquake,Report Based
+LS_00378,17.133027,73.490261,Meghalaya,Rudraprayag,2011-11-04,Debris slide,556.6968910601795,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00379,20.438398,74.502006,Meghalaya,Lahaul Spiti,2020-09-03,Rock slide,2834.591875362745,0,Low,Heavy Rainfall,Satellite Identified
+LS_00380,8.680615,75.837838,Uttarakhand,Kullu,2000-03-08,Topple,2693.592113318849,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00381,14.139663,76.400784,Sikkim,Rudraprayag,2010-10-26,Debris slide,1215.0777348314862,0,Medium,Heavy Rainfall,Field Verified
+LS_00382,16.471317,75.692987,Karnataka,Wayanad,2004-01-04,Complex landslide,1896.2634533008838,0,Low,Heavy Rainfall,Field Verified
+LS_00383,19.572795,73.437048,Assam,Tehri Garhwal,2000-01-12,Rock slide,2292.636575941695,0,Low,Heavy Rainfall,Field Verified
+LS_00384,18.861243,72.073467,Karnataka,Pithoragarh,2022-10-26,Complex landslide,2382.8782782735357,0,Low,Heavy Rainfall,Satellite Identified
+LS_00385,14.40724,74.021449,Karnataka,Udupi,2022-08-31,Debris slide,3785.098187566613,0,Low,Heavy Rainfall,Report Based
+LS_00386,31.633226,88.228388,Assam,Wayanad,2002-05-04,Earth slide,1868.842898449402,0,Medium,Heavy Rainfall,Report Based
+LS_00387,9.632153,72.084738,Kerala,Udupi,2004-06-21,Complex landslide,7351.8204197989135,0,Low,Heavy Rainfall,Field Verified
+LS_00388,30.05316,90.235979,Uttarakhand,Uttarkashi,2000-01-13,Earth slide,3648.64637786035,0,Low,Heavy Rainfall,Field Verified
+LS_00389,16.403964,76.870972,Meghalaya,Uttarkashi,2021-04-18,Earth flow,9388.574993123457,0,Medium,Earthquake,Satellite Identified
+LS_00390,13.953945,73.990026,Jammu & Kashmir,Kozhikode,2012-04-15,Debris flow,1804.244849911565,0,Low,Heavy Rainfall,Satellite Identified
+LS_00391,17.716777,74.369049,Sikkim,Hassan,2020-10-03,Topple,297.9244503124204,2,High,Earthquake,Report Based
+LS_00392,15.07827,76.813842,Uttarakhand,Wayanad,2019-04-21,Earth slide,393.0792672458491,0,Low,Heavy Rainfall,Field Verified
+LS_00393,32.356895,90.407759,Arunachal Pradesh,Kullu,2016-09-07,Rock fall,4317.286613479134,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00394,16.763694,73.299525,Arunachal Pradesh,Dakshina Kannada,2009-11-29,Rock slide,2117.067672469814,1,Low,Heavy Rainfall,Satellite Identified
+LS_00395,32.954049,75.306268,Jammu & Kashmir,Chikmagalur,2019-07-21,Complex landslide,796.7553170232788,0,Medium,Heavy Rainfall,Field Verified
+LS_00396,34.705539,85.122854,Uttarakhand,Dakshina Kannada,2008-11-12,Debris slide,1384.6556515460238,0,Medium,Heavy Rainfall,Field Verified
+LS_00397,33.648758,83.652962,Meghalaya,Idukki,1998-11-07,Complex landslide,3954.6506380290175,0,Low,Heavy Rainfall,Satellite Identified
+LS_00398,29.464298,75.04956,Kerala,Malappuram,2016-07-10,Topple,9278.280231937153,3,Medium,Human Activity,Field Verified
+LS_00399,34.724389,78.13544,Sikkim,Kinnaur,2004-03-12,Earth slide,15123.726591010258,5,Medium,Snowmelt,Satellite Identified
+LS_00400,11.374043,74.184979,Assam,Idukki,2021-07-28,Earth flow,4501.606318808089,0,Medium,Snowmelt,Field Verified
+LS_00401,18.303737,76.539494,Tamil Nadu,Hassan,2021-11-30,Earth slide,14385.44517946248,2,Low,Snowmelt,Satellite Identified
+LS_00402,10.101729,74.384501,Kerala,Lahaul Spiti,2019-09-20,Debris flow,6335.11639460626,0,Medium,Heavy Rainfall,Field Verified
+LS_00403,15.346109,75.858135,Karnataka,Kullu,2008-02-02,Rock slide,3454.70472579968,0,Low,Heavy Rainfall,Report Based
+LS_00404,10.972798,75.171818,Meghalaya,Wayanad,2012-03-22,Debris flow,1255.6313986525486,0,Medium,Heavy Rainfall,Field Verified
+LS_00405,13.573126,72.145849,Arunachal Pradesh,West Garo Hills,2003-06-20,Complex landslide,3278.1987731790286,0,Low,Heavy Rainfall,Satellite Identified
+LS_00406,19.953903,76.966275,Jammu & Kashmir,Kullu,2013-06-25,Rock fall,229.7553109084137,0,Low,Heavy Rainfall,Satellite Identified
+LS_00407,19.939544,76.754643,Tamil Nadu,Pathanamthitta,2001-07-18,Debris flow,4303.364717227319,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00408,12.66152,75.283155,Kerala,Hassan,2007-08-07,Debris flow,1374.8093444425483,0,High,Heavy Rainfall,Satellite Identified
+LS_00409,10.871086,72.19465,Himachal Pradesh,Udupi,2004-02-28,Rock slide,183.4175280566355,0,Medium,Heavy Rainfall,Report Based
+LS_00410,32.071356,83.168898,Sikkim,Lahaul Spiti,2000-04-11,Rock slide,4338.560505970516,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00411,34.25866,93.875587,Assam,Idukki,2002-06-30,Topple,11154.031145986535,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00412,29.432761,86.413736,Uttarakhand,Hassan,2004-03-02,Earth flow,1029.8093873716539,0,Medium,Heavy Rainfall,Field Verified
+LS_00413,8.897099,76.703923,Meghalaya,East Khasi Hills,2019-05-04,Rock slide,3535.423672578998,0,Medium,Earthquake,Satellite Identified
+LS_00414,17.017035,75.855614,Karnataka,East Khasi Hills,2012-05-29,Rock fall,5315.994361736102,0,Medium,Heavy Rainfall,Field Verified
+LS_00415,30.976597,74.788993,Sikkim,Tehri Garhwal,2008-06-01,Earth flow,684.06557923332,0,Low,Heavy Rainfall,Satellite Identified
+LS_00416,8.710247,76.865391,Uttarakhand,Kozhikode,2005-11-20,Topple,1281.726725915564,0,Low,Heavy Rainfall,Field Verified
+LS_00417,33.105414,94.303755,Uttarakhand,Rudraprayag,2010-12-26,Debris flow,1269.905152221055,0,Medium,Earthquake,Satellite Identified
+LS_00418,30.120516,80.831198,Karnataka,Pathanamthitta,2013-01-11,Topple,6234.772679962116,0,Low,Heavy Rainfall,Report Based
+LS_00419,33.646855,94.682026,Meghalaya,Mandi,2020-08-14,Rock slide,7017.167191600204,0,Low,Heavy Rainfall,Field Verified
+LS_00420,31.811479,88.895737,Jammu & Kashmir,Pathanamthitta,2012-10-31,Debris flow,915.5371515647234,0,Low,Snowmelt,Field Verified
+LS_00421,29.857283,86.632631,Tamil Nadu,Kullu,1998-08-19,Rock slide,1758.862845523176,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00422,31.562234,81.754896,Assam,Chikmagalur,2016-03-10,Earth slide,13509.709168835878,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00423,34.446962,88.586504,Himachal Pradesh,Shimla,2015-12-25,Earth flow,6527.832886776416,0,Low,Earthquake,Field Verified
+LS_00424,12.489445,73.678052,Kerala,Rudraprayag,2012-07-07,Debris flow,19204.438111263076,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00425,20.312179,74.481294,Meghalaya,Mandi,2008-07-25,Earth slide,2394.3558284108544,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00426,8.327514,76.194987,Karnataka,East Khasi Hills,1998-07-07,Earth slide,57.418345521317775,0,High,Heavy Rainfall,Field Verified
+LS_00427,32.934097,91.159691,Himachal Pradesh,Pathanamthitta,2000-10-14,Debris flow,3953.031815944503,2,Low,Heavy Rainfall,Satellite Identified
+LS_00428,34.038483,77.764368,Sikkim,South Garo Hills,2016-03-09,Debris flow,8047.276607020213,0,Low,Heavy Rainfall,Satellite Identified
+LS_00429,29.100912,80.505545,Tamil Nadu,Udupi,2011-03-27,Rock slide,1712.772202638604,0,Medium,Earthquake,Field Verified
+LS_00430,32.374119,86.006666,Meghalaya,Uttarkashi,2003-12-29,Topple,8943.731370964588,1,Low,Heavy Rainfall,Field Verified
+LS_00431,15.135163,73.438164,Sikkim,Kodagu,2016-08-27,Rock slide,1832.0148226473093,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00432,30.831692,75.435417,Sikkim,Pathanamthitta,2001-09-03,Earth slide,7656.8282429166675,0,Low,Heavy Rainfall,Satellite Identified
+LS_00433,28.3961,81.852342,Uttarakhand,Hassan,2003-01-13,Rock slide,14452.231245840161,0,Medium,Heavy Rainfall,Field Verified
+LS_00434,30.928337,89.769736,Tamil Nadu,Chikmagalur,2005-05-19,Topple,534.4356102718182,0,Low,Heavy Rainfall,Report Based
+LS_00435,28.472518,84.892721,Arunachal Pradesh,Kodagu,2007-03-20,Debris slide,988.3823033775566,3,Low,Heavy Rainfall,Satellite Identified
+LS_00436,17.159208,74.113643,Meghalaya,Uttarkashi,2000-06-30,Complex landslide,2127.248644659102,0,Low,Heavy Rainfall,Satellite Identified
+LS_00437,11.490939,73.437308,Sikkim,Pathanamthitta,2000-08-03,Debris flow,5346.56949691592,2,Medium,Heavy Rainfall,Field Verified
+LS_00438,34.659963,80.243107,Karnataka,Rudraprayag,2015-10-06,Rock slide,482.9233816040338,0,Medium,Heavy Rainfall,Field Verified
+LS_00439,28.105775,94.265323,Assam,Wayanad,2000-01-13,Debris slide,1444.3675475963291,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00440,29.897674,86.551034,Meghalaya,Tehri Garhwal,2001-02-04,Debris flow,10053.147087469952,2,Low,Heavy Rainfall,Report Based
+LS_00441,17.574958,76.414969,Jammu & Kashmir,East Khasi Hills,2006-01-27,Complex landslide,1132.1988527499602,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00442,8.200134,74.91463,Meghalaya,Kozhikode,2015-02-27,Complex landslide,1459.1301618925725,0,High,Heavy Rainfall,Satellite Identified
+LS_00443,29.319784,88.12167,Jammu & Kashmir,East Khasi Hills,2022-03-11,Earth slide,18862.81737842832,0,Low,Heavy Rainfall,Field Verified
+LS_00444,33.23869,93.205522,Sikkim,Kozhikode,2006-01-03,Earth flow,2845.9912786061886,0,Low,Heavy Rainfall,Field Verified
+LS_00445,32.126178,86.879125,Uttarakhand,Kullu,1998-02-26,Topple,5076.251206765839,0,Medium,Heavy Rainfall,Field Verified
+LS_00446,19.407111,75.693616,Assam,Lahaul Spiti,2021-11-11,Rock slide,69.20449429463241,0,Low,Heavy Rainfall,Field Verified
+LS_00447,8.812842,74.294703,Jammu & Kashmir,Mandi,2013-07-12,Rock slide,6597.544483496353,0,Medium,Heavy Rainfall,Report Based
+LS_00448,33.869443,90.906897,Assam,Udupi,1999-06-12,Rock fall,8657.570268273654,1,Low,Heavy Rainfall,Satellite Identified
+LS_00449,33.20017,89.496265,Himachal Pradesh,Chamoli,2007-03-31,Rock fall,3684.962705983576,0,Low,Human Activity,Satellite Identified
+LS_00450,14.998315,73.344268,Kerala,Tehri Garhwal,2000-03-08,Complex landslide,2297.882267765736,0,Medium,Earthquake,Satellite Identified
+LS_00451,16.193214,73.241918,Sikkim,Kinnaur,2008-07-06,Rock fall,6111.716403019921,0,Low,Heavy Rainfall,Report Based
+LS_00452,28.448044,91.319608,Karnataka,Lahaul Spiti,2020-08-08,Earth slide,1729.2622407306778,0,Low,Heavy Rainfall,Satellite Identified
+LS_00453,8.730289,74.455479,Karnataka,Uttarkashi,2008-08-17,Rock slide,13094.062255622892,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00454,11.383076,72.797461,Karnataka,Tehri Garhwal,2011-06-25,Earth flow,874.5213506410947,0,Low,Heavy Rainfall,Satellite Identified
+LS_00455,18.583634,75.425672,Meghalaya,Tehri Garhwal,2022-12-08,Earth slide,585.0958690531575,0,Low,Heavy Rainfall,Satellite Identified
+LS_00456,14.9622,73.78443,Tamil Nadu,South Garo Hills,2021-07-11,Complex landslide,2183.1472439241606,0,Medium,Heavy Rainfall,Report Based
+LS_00457,20.386595,73.633713,Karnataka,Kozhikode,2004-09-10,Earth flow,2188.0690356209325,0,High,Human Activity,Field Verified
+LS_00458,13.1055,74.766856,Kerala,Kullu,2008-10-23,Earth flow,3497.1591639203407,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00459,19.163936,75.741779,Sikkim,Malappuram,2000-08-02,Complex landslide,2892.049236190386,0,Low,Heavy Rainfall,Field Verified
+LS_00460,32.857647,78.821561,Kerala,Mandi,2015-06-04,Rock slide,625.2731117308141,0,Low,Heavy Rainfall,Satellite Identified
+LS_00461,14.694134,72.806814,Meghalaya,Wayanad,2001-07-19,Debris slide,436.26250762010454,0,Low,Human Activity,Field Verified
+LS_00462,30.479899,76.212255,Karnataka,Kozhikode,2000-04-24,Rock fall,1257.4663233084152,0,Medium,Heavy Rainfall,Field Verified
+LS_00463,30.73723,78.918271,Arunachal Pradesh,West Garo Hills,2006-06-10,Rock slide,1239.448147360115,2,Medium,Heavy Rainfall,Satellite Identified
+LS_00464,13.576276,74.704525,Tamil Nadu,Kullu,2007-05-16,Rock fall,5960.7120846190255,0,Low,Heavy Rainfall,Satellite Identified
+LS_00465,34.093689,87.259797,Himachal Pradesh,Kodagu,2006-07-11,Rock slide,3801.823142536145,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00466,28.999894,88.533547,Kerala,Hassan,2015-10-17,Earth slide,1154.9469593972321,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00467,13.450532,72.09062,Meghalaya,Hassan,2015-01-28,Earth slide,7869.343172279621,0,Low,Heavy Rainfall,Satellite Identified
+LS_00468,16.952211,73.266362,Tamil Nadu,Chikmagalur,2009-09-25,Topple,50.144491822740214,0,Low,Earthquake,Satellite Identified
+LS_00469,18.96324,74.425473,Meghalaya,Idukki,2002-06-04,Rock slide,2029.538999184942,0,Low,Heavy Rainfall,Satellite Identified
+LS_00470,19.473278,74.331549,Assam,Tehri Garhwal,2012-01-14,Rock slide,393.59144843978925,0,Medium,Human Activity,Field Verified
+LS_00471,28.468815,92.42436,Karnataka,Hassan,1998-09-23,Complex landslide,2466.60643722313,0,High,Heavy Rainfall,Satellite Identified
+LS_00472,8.96337,73.877345,Kerala,Idukki,2004-11-02,Rock slide,8143.47434561074,0,High,Heavy Rainfall,Satellite Identified
+LS_00473,10.861447,73.752603,Meghalaya,Hassan,2009-01-09,Earth slide,2330.3231764687807,0,Low,Heavy Rainfall,Satellite Identified
+LS_00474,16.537483,75.543828,Meghalaya,Pathanamthitta,2019-12-02,Earth flow,41.99426856058394,0,Medium,Heavy Rainfall,Field Verified
+LS_00475,18.45843,75.864048,Jammu & Kashmir,Hassan,2005-08-05,Topple,3975.0044058111744,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00476,33.262229,90.863044,Uttarakhand,Chikmagalur,2022-04-27,Rock fall,3649.1395017543887,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00477,29.189167,78.094479,Uttarakhand,Malappuram,2000-03-05,Earth flow,11055.023720907293,0,High,Earthquake,Satellite Identified
+LS_00478,32.578929,92.671686,Jammu & Kashmir,Rudraprayag,2001-01-18,Rock slide,4323.317676020178,0,Low,Heavy Rainfall,Satellite Identified
+LS_00479,11.522255,73.011271,Uttarakhand,Udupi,2014-09-28,Topple,1883.1260848764964,0,Low,Heavy Rainfall,Report Based
+LS_00480,14.591775,72.939602,Uttarakhand,Hassan,1998-09-15,Complex landslide,400.476754442232,0,Low,Earthquake,Satellite Identified
+LS_00481,33.57369,79.710867,Sikkim,Mandi,1998-10-02,Debris flow,5894.107541012077,0,High,Heavy Rainfall,Satellite Identified
+LS_00482,29.886583,78.009458,Assam,Shimla,2020-07-12,Debris slide,5931.335053787402,0,Low,Heavy Rainfall,Satellite Identified
+LS_00483,33.704578,90.33853,Jammu & Kashmir,Lahaul Spiti,2021-07-10,Rock slide,7153.3493706326,0,Low,Heavy Rainfall,Satellite Identified
+LS_00484,13.620501,72.155745,Karnataka,Kozhikode,2013-11-25,Debris slide,1502.6644533912372,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00485,8.506731,75.334237,Meghalaya,Dakshina Kannada,2016-03-19,Rock slide,1950.621997161652,0,Medium,Heavy Rainfall,Report Based
+LS_00486,34.973104,91.333729,Himachal Pradesh,East Khasi Hills,2011-06-16,Rock fall,9317.502459260151,0,Low,Heavy Rainfall,Field Verified
+LS_00487,34.992248,80.859424,Assam,Kozhikode,2016-03-07,Topple,6895.28133814556,0,Medium,Snowmelt,Field Verified
+LS_00488,28.282456,82.635022,Jammu & Kashmir,Pithoragarh,1998-06-04,Topple,696.7739778697819,0,Low,Earthquake,Satellite Identified
+LS_00489,12.066114,75.27171,Arunachal Pradesh,Chamoli,2012-11-10,Rock fall,1319.9460919587746,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00490,28.272566,91.579512,Arunachal Pradesh,Kodagu,2007-06-26,Debris flow,4831.6898045698,0,Medium,Human Activity,Satellite Identified
+LS_00491,32.066653,94.804262,Karnataka,Hassan,2001-05-03,Rock fall,7067.920140598498,0,Medium,Heavy Rainfall,Field Verified
+LS_00492,32.177963,93.491824,Uttarakhand,Kinnaur,2012-02-09,Earth flow,13235.212029327808,0,Low,Heavy Rainfall,Report Based
+LS_00493,20.754533,75.247545,Karnataka,Shimla,2001-06-14,Rock slide,8158.777018532883,0,Low,Heavy Rainfall,Satellite Identified
+LS_00494,16.772222,75.387658,Tamil Nadu,Kozhikode,2022-04-01,Earth flow,2335.0216057317393,2,Low,Heavy Rainfall,Satellite Identified
+LS_00495,32.879951,87.621418,Tamil Nadu,Tehri Garhwal,2020-06-18,Debris slide,1609.906194807168,0,Medium,Heavy Rainfall,Field Verified
+LS_00496,17.166809,74.27586,Himachal Pradesh,Idukki,2008-05-31,Complex landslide,5509.497301556075,0,Low,Heavy Rainfall,Satellite Identified
+LS_00497,15.926067,75.498198,Karnataka,Pathanamthitta,1999-05-01,Topple,9105.580186750543,0,High,Heavy Rainfall,Satellite Identified
+LS_00498,30.81321,77.227512,Sikkim,Kozhikode,2013-12-17,Complex landslide,4250.259296105759,0,High,Heavy Rainfall,Satellite Identified
+LS_00499,30.484473,75.091776,Himachal Pradesh,Udupi,2015-01-19,Debris flow,161.29260770302403,0,Low,Heavy Rainfall,Satellite Identified
+LS_00500,34.180404,87.839954,Himachal Pradesh,Mandi,2001-04-19,Earth flow,1186.4141540467563,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00501,11.724754,76.013202,Assam,Idukki,2004-12-02,Earth slide,29458.819920511763,0,Medium,Heavy Rainfall,Report Based
+LS_00502,31.255067,91.795147,Uttarakhand,Kullu,2002-02-08,Topple,322.12767012842176,0,Low,Snowmelt,Satellite Identified
+LS_00503,19.083116,76.689826,Himachal Pradesh,Uttarkashi,2010-02-06,Debris slide,444.72159843660444,0,Low,Heavy Rainfall,Field Verified
+LS_00504,31.28375,79.639806,Meghalaya,Hassan,2017-05-02,Complex landslide,532.2394599515666,0,Low,Snowmelt,Satellite Identified
+LS_00505,34.77433,83.23455,Himachal Pradesh,Wayanad,1999-03-07,Debris slide,1631.2031639109377,0,Low,Heavy Rainfall,Field Verified
+LS_00506,9.685827,73.282315,Uttarakhand,Kullu,2015-04-13,Complex landslide,2195.0040958558247,0,Low,Heavy Rainfall,Satellite Identified
+LS_00507,9.909985,73.713226,Sikkim,Lahaul Spiti,2001-10-19,Earth flow,9999.785910183711,0,Low,Heavy Rainfall,Satellite Identified
+LS_00508,15.324309,76.019024,Jammu & Kashmir,Mandi,2005-08-09,Debris flow,737.5633156735948,0,Low,Heavy Rainfall,Satellite Identified
+LS_00509,11.557325,74.439172,Jammu & Kashmir,Pithoragarh,2020-02-14,Earth flow,429.2729095505401,0,Low,Earthquake,Field Verified
+LS_00510,13.441895,74.292157,Assam,Kullu,2010-05-19,Topple,6455.031385964184,0,Medium,Earthquake,Satellite Identified
+LS_00511,30.197128,85.298477,Karnataka,Lahaul Spiti,2014-03-14,Topple,9166.285911198182,3,Medium,Heavy Rainfall,Field Verified
+LS_00512,31.425748,89.57447,Himachal Pradesh,Uttarkashi,2018-07-16,Debris flow,3391.9733866756933,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00513,30.847634,80.892895,Tamil Nadu,Udupi,2015-10-02,Complex landslide,3025.5891287585646,0,Low,Heavy Rainfall,Report Based
+LS_00514,10.281391,74.838637,Tamil Nadu,Malappuram,2017-09-30,Earth flow,4329.348380491145,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00515,12.838252,75.308336,Arunachal Pradesh,South Garo Hills,2012-05-20,Rock slide,761.2331381052286,0,Low,Heavy Rainfall,Field Verified
+LS_00516,10.376891,76.128555,Jammu & Kashmir,Kozhikode,2012-02-04,Earth slide,1682.3141569534437,1,High,Heavy Rainfall,Field Verified
+LS_00517,12.869127,75.988661,Arunachal Pradesh,Lahaul Spiti,2020-01-10,Earth slide,2289.511561743342,0,Low,Earthquake,Satellite Identified
+LS_00518,10.276601,75.363823,Assam,Wayanad,2010-07-29,Debris slide,1245.540299742289,0,Medium,Heavy Rainfall,Field Verified
+LS_00519,28.004574,92.28405,Jammu & Kashmir,West Garo Hills,2022-06-23,Rock fall,7865.404874322917,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00520,12.565852,72.468883,Meghalaya,Kullu,2007-05-28,Debris slide,3328.9295402065054,1,Low,Heavy Rainfall,Field Verified
+LS_00521,11.095906,76.542173,Jammu & Kashmir,East Khasi Hills,2020-05-25,Debris flow,3156.207996288356,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00522,31.009896,86.535125,Jammu & Kashmir,South Garo Hills,2009-05-02,Complex landslide,38617.6476103123,0,Low,Earthquake,Field Verified
+LS_00523,8.396028,73.022242,Meghalaya,Udupi,2001-04-26,Topple,2080.6960416615416,0,Medium,Human Activity,Satellite Identified
+LS_00524,14.516583,72.251215,Sikkim,South Garo Hills,2021-12-21,Complex landslide,177.6776328235749,0,Low,Earthquake,Field Verified
+LS_00525,28.174802,83.429814,Sikkim,Udupi,2014-02-16,Debris slide,1355.6232430193663,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00526,29.967348,77.643417,Tamil Nadu,Shimla,2009-02-19,Rock fall,2388.175558723339,0,Low,Earthquake,Field Verified
+LS_00527,18.046028,73.184667,Assam,Chamoli,2012-11-15,Rock fall,5656.604087255281,0,High,Heavy Rainfall,Field Verified
+LS_00528,28.134088,91.36403,Kerala,Chikmagalur,2009-08-10,Rock slide,3719.4203873678034,0,Low,Heavy Rainfall,Field Verified
+LS_00529,20.4994,75.33934,Assam,Pathanamthitta,2014-10-13,Earth flow,13530.641827008183,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00530,19.02542,76.735807,Meghalaya,Chamoli,1999-02-07,Debris flow,10807.82048718696,0,Low,Heavy Rainfall,Report Based
+LS_00531,8.133698,75.58025,Himachal Pradesh,Uttarkashi,2001-11-07,Earth slide,6125.065749837182,0,High,Heavy Rainfall,Satellite Identified
+LS_00532,9.026212,74.213991,Meghalaya,Kinnaur,2013-05-22,Topple,1512.615124595582,0,Medium,Human Activity,Field Verified
+LS_00533,12.842616,76.643153,Himachal Pradesh,Pathanamthitta,2019-05-12,Topple,319.00575565085666,0,Low,Heavy Rainfall,Field Verified
+LS_00534,20.584993,74.233573,Karnataka,Tehri Garhwal,2001-01-05,Debris slide,3480.938595079946,0,Low,Heavy Rainfall,Satellite Identified
+LS_00535,33.277077,86.135713,Himachal Pradesh,West Garo Hills,2013-05-22,Earth flow,11735.808918792034,0,Medium,Heavy Rainfall,Field Verified
+LS_00536,29.487131,87.933995,Jammu & Kashmir,Hassan,2021-02-23,Earth flow,2648.3222338555297,0,Medium,Human Activity,Report Based
+LS_00537,12.080415,75.455279,Meghalaya,Lahaul Spiti,2017-02-15,Complex landslide,1584.752429051964,0,Low,Heavy Rainfall,Satellite Identified
+LS_00538,33.816644,76.517713,Assam,Kozhikode,2006-05-12,Rock fall,6638.7283549360445,0,Low,Heavy Rainfall,Field Verified
+LS_00539,32.172574,83.110722,Arunachal Pradesh,Malappuram,2018-03-02,Complex landslide,898.0593310915677,0,Low,Human Activity,Satellite Identified
+LS_00540,33.131001,87.831888,Kerala,Mandi,2007-08-21,Debris slide,13408.617619868695,0,Low,Heavy Rainfall,Satellite Identified
+LS_00541,30.796631,80.862689,Jammu & Kashmir,Wayanad,2022-01-31,Earth slide,54.34974021507358,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00542,31.247872,76.492891,Himachal Pradesh,Mandi,2018-07-11,Topple,19704.22886118751,0,Low,Heavy Rainfall,Satellite Identified
+LS_00543,8.421765,75.293588,Arunachal Pradesh,Kozhikode,2015-06-08,Debris slide,3799.5542209415817,0,Low,Heavy Rainfall,Field Verified
+LS_00544,20.198104,76.093701,Meghalaya,Udupi,2013-10-15,Earth flow,20542.381689356003,0,High,Heavy Rainfall,Satellite Identified
+LS_00545,8.654544,72.263826,Jammu & Kashmir,Idukki,2001-10-20,Debris slide,5888.46020978852,0,Low,Heavy Rainfall,Field Verified
+LS_00546,32.043422,81.543384,Himachal Pradesh,Shimla,2011-09-13,Earth slide,8673.651739398309,0,Low,Heavy Rainfall,Satellite Identified
+LS_00547,33.640002,80.891769,Assam,Malappuram,2020-11-30,Earth flow,1172.6618780401755,0,Low,Heavy Rainfall,Satellite Identified
+LS_00548,10.876103,73.904956,Jammu & Kashmir,Kodagu,2016-12-23,Earth flow,8261.876831831261,0,Low,Heavy Rainfall,Satellite Identified
+LS_00549,34.527884,76.491519,Karnataka,Uttarkashi,2019-12-19,Earth flow,13571.555523709792,0,Low,Heavy Rainfall,Satellite Identified
+LS_00550,13.300725,72.806094,Arunachal Pradesh,Tehri Garhwal,2018-03-26,Earth slide,5341.52519457652,3,Low,Heavy Rainfall,Field Verified
+LS_00551,30.923669,76.443528,Jammu & Kashmir,Kinnaur,2019-09-27,Complex landslide,4744.015841541464,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00552,15.158624,74.016039,Meghalaya,Malappuram,2016-05-09,Topple,8968.126358031534,0,Medium,Heavy Rainfall,Field Verified
+LS_00553,9.376366,73.774488,Himachal Pradesh,Dakshina Kannada,2005-07-03,Rock fall,2665.121993928499,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00554,29.272452,77.293067,Uttarakhand,Mandi,2011-02-07,Rock slide,8781.05870859818,0,Low,Heavy Rainfall,Satellite Identified
+LS_00555,15.241527,73.156903,Meghalaya,Dakshina Kannada,2005-07-18,Topple,3490.0678830690413,0,High,Heavy Rainfall,Satellite Identified
+LS_00556,34.540129,93.244831,Karnataka,Hassan,2003-02-15,Earth slide,5044.968972670079,0,Low,Earthquake,Satellite Identified
+LS_00557,32.742066,82.997616,Sikkim,Kinnaur,2017-10-19,Complex landslide,6574.455979103181,0,Low,Earthquake,Satellite Identified
+LS_00558,33.912661,83.057336,Karnataka,Tehri Garhwal,2009-02-07,Topple,2382.4469651369423,1,Low,Earthquake,Satellite Identified
+LS_00559,14.683241,73.542341,Himachal Pradesh,Pathanamthitta,2013-08-21,Debris slide,4255.350505635326,0,Low,Heavy Rainfall,Field Verified
+LS_00560,34.848484,94.280691,Arunachal Pradesh,South Garo Hills,2007-06-01,Earth slide,2513.917719693449,0,Low,Heavy Rainfall,Satellite Identified
+LS_00561,20.307831,74.001061,Arunachal Pradesh,Uttarkashi,2005-06-12,Rock slide,7646.160312407585,0,High,Heavy Rainfall,Satellite Identified
+LS_00562,32.616542,88.448957,Arunachal Pradesh,Wayanad,2000-08-30,Debris flow,641.369494850031,1,Low,Heavy Rainfall,Field Verified
+LS_00563,30.150515,85.475629,Karnataka,Kullu,2012-07-08,Debris flow,2699.4995596964586,0,Low,Heavy Rainfall,Satellite Identified
+LS_00564,34.285753,75.766681,Assam,Tehri Garhwal,2004-01-31,Debris flow,2496.988423583337,0,Low,Heavy Rainfall,Satellite Identified
+LS_00565,29.141134,78.910069,Kerala,Uttarkashi,2003-12-15,Earth slide,119.96652324404326,0,High,Heavy Rainfall,Field Verified
+LS_00566,34.078867,93.45574,Meghalaya,Uttarkashi,2015-08-14,Debris flow,2720.4246914178966,0,Low,Heavy Rainfall,Satellite Identified
+LS_00567,8.372482,74.916262,Meghalaya,Pithoragarh,2014-10-30,Debris slide,56.834478312091164,0,Low,Heavy Rainfall,Satellite Identified
+LS_00568,13.169897,76.869002,Karnataka,South Garo Hills,2021-02-16,Earth slide,3928.4911389096387,0,Medium,Heavy Rainfall,Report Based
+LS_00569,12.871386,74.749343,Tamil Nadu,Dakshina Kannada,2019-11-23,Rock fall,259.48371804906174,0,Medium,Earthquake,Field Verified
+LS_00570,29.582553,91.163412,Tamil Nadu,Pithoragarh,2018-07-26,Complex landslide,13324.840065913937,0,Low,Heavy Rainfall,Satellite Identified
+LS_00571,28.584674,78.433645,Kerala,Kodagu,2017-04-10,Debris flow,6981.083881060721,0,Low,Heavy Rainfall,Satellite Identified
+LS_00572,13.12944,74.649703,Tamil Nadu,Hassan,2010-09-21,Earth flow,879.9126053415916,0,Medium,Earthquake,Field Verified
+LS_00573,9.940243,73.340872,Uttarakhand,Tehri Garhwal,2013-06-02,Debris slide,2239.83887036828,0,Medium,Heavy Rainfall,Field Verified
+LS_00574,13.094837,75.485818,Himachal Pradesh,Shimla,1998-09-24,Topple,1074.8560735327194,0,Low,Human Activity,Satellite Identified
+LS_00575,11.864734,73.149969,Assam,Kinnaur,1998-01-12,Earth flow,2649.226550765014,0,Medium,Earthquake,Satellite Identified
+LS_00576,18.716556,73.984961,Karnataka,Pithoragarh,2005-02-17,Earth slide,849.8920631877976,0,Low,Heavy Rainfall,Field Verified
+LS_00577,9.055985,76.962909,Tamil Nadu,West Garo Hills,2001-09-12,Earth flow,849.2078318230082,3,High,Earthquake,Satellite Identified
+LS_00578,32.044649,92.188132,Karnataka,South Garo Hills,2015-10-12,Rock slide,1708.5060709710604,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00579,12.293701,74.821159,Himachal Pradesh,Rudraprayag,2002-02-03,Rock slide,9504.787628013319,0,High,Heavy Rainfall,Satellite Identified
+LS_00580,15.230479,75.897584,Jammu & Kashmir,Dakshina Kannada,2001-06-30,Rock slide,81.6652925167032,0,Low,Human Activity,Report Based
+LS_00581,11.822877,73.051593,Uttarakhand,South Garo Hills,1998-06-02,Earth slide,7248.585953335793,0,Medium,Heavy Rainfall,Field Verified
+LS_00582,34.854061,88.150617,Jammu & Kashmir,Kodagu,2016-12-11,Debris slide,9382.90266937688,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00583,32.777727,86.082543,Himachal Pradesh,Chamoli,2015-03-09,Debris slide,2802.376517463886,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00584,11.033327,75.126651,Karnataka,Uttarkashi,2014-06-28,Complex landslide,6873.375971781753,0,Low,Heavy Rainfall,Satellite Identified
+LS_00585,33.946125,74.944933,Himachal Pradesh,Chikmagalur,2004-05-29,Rock fall,6624.138874764507,0,Low,Human Activity,Satellite Identified
+LS_00586,31.257359,74.287331,Tamil Nadu,Kinnaur,2017-09-28,Earth flow,425.60429847425786,0,Low,Heavy Rainfall,Satellite Identified
+LS_00587,15.125888,72.873236,Kerala,Pithoragarh,2017-11-05,Debris slide,1754.4018919447144,0,High,Heavy Rainfall,Satellite Identified
+LS_00588,32.038168,85.842311,Arunachal Pradesh,Kozhikode,2003-07-11,Earth slide,3468.5220309841934,0,Low,Heavy Rainfall,Satellite Identified
+LS_00589,19.924485,74.032953,Jammu & Kashmir,Lahaul Spiti,2012-02-09,Debris flow,773.2291877534686,0,Low,Heavy Rainfall,Satellite Identified
+LS_00590,34.301849,90.636015,Sikkim,Udupi,2009-02-17,Debris flow,5640.6339580879985,0,High,Heavy Rainfall,Field Verified
+LS_00591,29.903682,78.575719,Kerala,Chikmagalur,2011-07-14,Rock slide,5421.100550295199,0,Low,Heavy Rainfall,Satellite Identified
+LS_00592,12.205895,75.32528,Uttarakhand,Lahaul Spiti,2011-04-05,Topple,4066.1716639259394,0,Low,Heavy Rainfall,Satellite Identified
+LS_00593,19.939168,75.24894,Kerala,Kodagu,2003-01-22,Debris slide,545.9174856321205,0,Medium,Earthquake,Field Verified
+LS_00594,28.000215,88.954878,Tamil Nadu,Uttarkashi,2014-03-14,Complex landslide,2204.9136037394087,0,Low,Heavy Rainfall,Satellite Identified
+LS_00595,20.449211,74.828725,Sikkim,West Garo Hills,2014-05-23,Earth flow,3612.481699611379,0,Low,Heavy Rainfall,Satellite Identified
+LS_00596,13.053443,73.201496,Uttarakhand,Dakshina Kannada,2001-04-10,Debris slide,498.9098305246055,0,Low,Heavy Rainfall,Report Based
+LS_00597,31.108725,85.169307,Kerala,Tehri Garhwal,2009-10-05,Rock fall,10342.25198062674,10,Low,Earthquake,Satellite Identified
+LS_00598,11.974671,74.013519,Karnataka,East Khasi Hills,2020-09-22,Complex landslide,5581.447001277346,0,Low,Heavy Rainfall,Satellite Identified
+LS_00599,9.668236,74.892463,Himachal Pradesh,East Khasi Hills,2016-01-17,Earth flow,5911.417437719912,0,Medium,Human Activity,Satellite Identified
+LS_00600,17.493239,75.095864,Karnataka,Pithoragarh,2001-10-01,Rock slide,1032.9069449920912,0,Low,Heavy Rainfall,Satellite Identified
+LS_00601,33.949715,78.12116,Tamil Nadu,Kozhikode,2022-01-23,Debris slide,670.7996070995724,2,Low,Heavy Rainfall,Satellite Identified
+LS_00602,15.037867,72.430161,Kerala,Tehri Garhwal,2017-08-16,Rock slide,293.5876879348118,0,Low,Heavy Rainfall,Field Verified
+LS_00603,32.464419,91.221418,Himachal Pradesh,Pathanamthitta,2017-06-28,Rock fall,212.34049223217102,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00604,15.977293,76.489676,Himachal Pradesh,Rudraprayag,2005-11-17,Earth flow,8301.667490193986,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00605,31.263271,77.988659,Meghalaya,Wayanad,2005-05-08,Debris flow,6048.919511776899,0,Low,Human Activity,Field Verified
+LS_00606,30.210412,75.194509,Jammu & Kashmir,Mandi,2014-09-06,Debris slide,7273.450973382179,0,Low,Heavy Rainfall,Satellite Identified
+LS_00607,33.293777,83.537857,Assam,Mandi,2013-01-10,Debris slide,2657.5208594133087,1,Low,Heavy Rainfall,Satellite Identified
+LS_00608,20.601184,73.889196,Meghalaya,Pathanamthitta,2001-06-16,Earth slide,320.22262189049184,0,Low,Heavy Rainfall,Satellite Identified
+LS_00609,34.984246,83.486529,Arunachal Pradesh,Shimla,2020-05-30,Earth slide,2190.421042184496,0,Low,Human Activity,Satellite Identified
+LS_00610,30.710921,87.853496,Himachal Pradesh,Dakshina Kannada,2009-06-11,Debris slide,2917.2810626817513,0,Low,Earthquake,Report Based
+LS_00611,32.541358,94.045885,Uttarakhand,Tehri Garhwal,2020-10-28,Rock fall,821.027132820909,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00612,30.366591,76.663304,Meghalaya,Wayanad,2000-01-24,Complex landslide,2485.784428303406,0,Medium,Heavy Rainfall,Field Verified
+LS_00613,31.866563,86.499824,Uttarakhand,Hassan,2006-01-11,Complex landslide,10275.230184371687,0,Low,Earthquake,Satellite Identified
+LS_00614,28.554962,85.882862,Kerala,Malappuram,2012-06-08,Earth slide,11930.84151461727,0,Low,Heavy Rainfall,Field Verified
+LS_00615,13.626029,74.978399,Arunachal Pradesh,Wayanad,2001-06-30,Debris slide,420.2537571378502,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00616,28.561307,84.013616,Kerala,Chikmagalur,2006-01-17,Rock fall,4972.519996224426,0,Medium,Heavy Rainfall,Report Based
+LS_00617,9.616496,76.375668,Meghalaya,Kullu,2001-02-03,Debris flow,17692.00605080883,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00618,14.711683,74.903226,Sikkim,Pathanamthitta,2001-11-16,Rock fall,13739.46089939274,0,Low,Earthquake,Report Based
+LS_00619,8.28686,76.912606,Karnataka,Dakshina Kannada,2007-01-01,Debris flow,450.3464512965211,0,Low,Heavy Rainfall,Satellite Identified
+LS_00620,32.507696,81.999989,Tamil Nadu,Dakshina Kannada,2018-10-23,Topple,280.5528589407427,0,High,Heavy Rainfall,Field Verified
+LS_00621,31.098041,75.015617,Kerala,Uttarkashi,2022-07-08,Rock fall,8587.554531024689,0,Low,Heavy Rainfall,Satellite Identified
+LS_00622,15.210931,76.129662,Kerala,Hassan,1999-01-27,Earth slide,4991.0137443194035,0,Low,Heavy Rainfall,Report Based
+LS_00623,31.787797,86.70688,Uttarakhand,West Garo Hills,2013-01-10,Complex landslide,1245.433667705362,0,Low,Heavy Rainfall,Field Verified
+LS_00624,15.856671,75.818461,Kerala,Chikmagalur,2002-08-31,Rock slide,3705.4029539204594,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00625,10.123768,72.922295,Uttarakhand,Uttarkashi,2020-01-27,Debris flow,1130.07553366833,0,Low,Heavy Rainfall,Satellite Identified
+LS_00626,31.38306,82.038466,Kerala,Chikmagalur,1999-12-21,Complex landslide,9136.309689945741,0,Low,Heavy Rainfall,Field Verified
+LS_00627,15.460256,74.830092,Himachal Pradesh,Dakshina Kannada,2018-07-26,Debris slide,10520.04483715477,0,High,Heavy Rainfall,Field Verified
+LS_00628,28.308461,77.890814,Himachal Pradesh,Dakshina Kannada,2015-09-10,Rock fall,3896.468595696304,0,Low,Human Activity,Satellite Identified
+LS_00629,11.855962,72.385938,Kerala,Kullu,2003-11-12,Debris flow,930.9676554186965,0,Low,Heavy Rainfall,Field Verified
+LS_00630,12.655816,76.947527,Tamil Nadu,Idukki,2015-08-18,Topple,5765.040094108894,2,Low,Heavy Rainfall,Satellite Identified
+LS_00631,8.997855,72.020937,Himachal Pradesh,Kinnaur,2008-06-24,Earth flow,5549.898272229316,0,Low,Heavy Rainfall,Satellite Identified
+LS_00632,28.168035,81.042804,Himachal Pradesh,Shimla,2004-12-21,Topple,974.4951455235421,0,High,Heavy Rainfall,Satellite Identified
+LS_00633,12.099729,73.965736,Assam,Chamoli,2012-02-02,Earth slide,1351.988189223256,0,Low,Earthquake,Satellite Identified
+LS_00634,31.828502,83.976887,Karnataka,Pathanamthitta,2018-04-10,Debris flow,12783.148745537637,0,Low,Heavy Rainfall,Satellite Identified
+LS_00635,34.947602,79.054081,Jammu & Kashmir,West Garo Hills,2002-01-21,Debris flow,10369.577557225977,0,Low,Heavy Rainfall,Satellite Identified
+LS_00636,34.847545,77.79873,Tamil Nadu,Uttarkashi,2007-08-24,Debris slide,8026.183029095837,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00637,33.828282,90.887477,Assam,Chikmagalur,2013-12-16,Rock fall,10065.392812131746,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00638,15.131649,74.013697,Jammu & Kashmir,Rudraprayag,2009-09-02,Complex landslide,3665.8024670382465,10,Low,Heavy Rainfall,Satellite Identified
+LS_00639,9.729127,72.793684,Sikkim,Lahaul Spiti,2022-12-09,Debris slide,14906.49530109417,0,High,Snowmelt,Field Verified
+LS_00640,12.620711,75.346095,Jammu & Kashmir,Chamoli,2002-07-28,Rock fall,3306.329560065953,0,Low,Heavy Rainfall,Satellite Identified
+LS_00641,29.130205,83.906537,Jammu & Kashmir,Kinnaur,2007-12-21,Complex landslide,4031.263347435887,0,Low,Heavy Rainfall,Field Verified
+LS_00642,12.612814,75.901063,Arunachal Pradesh,Dakshina Kannada,2001-10-08,Debris flow,4149.337359383612,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00643,33.145176,86.812266,Himachal Pradesh,Kinnaur,1998-12-24,Topple,3348.888681300812,0,Low,Heavy Rainfall,Satellite Identified
+LS_00644,31.595955,80.051875,Tamil Nadu,Chamoli,2002-02-15,Rock fall,32.42671116690151,0,Low,Heavy Rainfall,Field Verified
+LS_00645,15.602762,76.707371,Jammu & Kashmir,Dakshina Kannada,2000-04-09,Complex landslide,958.2805450842118,0,Low,Heavy Rainfall,Satellite Identified
+LS_00646,13.295752,74.606885,Uttarakhand,Kozhikode,2020-04-03,Complex landslide,11344.526322154412,0,Low,Human Activity,Satellite Identified
+LS_00647,34.234609,86.53585,Kerala,Shimla,2013-11-17,Debris flow,8307.89704168021,0,Medium,Human Activity,Satellite Identified
+LS_00648,10.350207,73.343988,Jammu & Kashmir,Tehri Garhwal,2018-01-03,Rock slide,1107.2535305364734,0,Low,Heavy Rainfall,Satellite Identified
+LS_00649,13.544497,75.077104,Assam,Hassan,2020-05-18,Topple,425.47475768551107,0,Low,Heavy Rainfall,Field Verified
+LS_00650,29.982991,82.40657,Karnataka,Kozhikode,2001-12-08,Earth flow,8353.007316259138,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00651,20.125788,72.100689,Sikkim,Lahaul Spiti,2006-12-12,Rock fall,834.9014240557615,0,Low,Heavy Rainfall,Satellite Identified
+LS_00652,16.827866,76.658702,Meghalaya,Hassan,2014-02-09,Topple,28962.11347018033,0,Low,Human Activity,Field Verified
+LS_00653,11.004051,76.486929,Tamil Nadu,Kozhikode,2020-07-15,Debris flow,1479.8584458301168,0,Low,Human Activity,Satellite Identified
+LS_00654,32.724252,79.020394,Tamil Nadu,Udupi,1999-03-04,Rock slide,7094.922978741559,0,Low,Heavy Rainfall,Field Verified
+LS_00655,34.835927,87.557654,Uttarakhand,Kodagu,2010-08-08,Earth slide,13631.876477177027,0,Medium,Earthquake,Satellite Identified
+LS_00656,34.759473,82.264662,Himachal Pradesh,Lahaul Spiti,2005-02-28,Rock slide,700.4345865100578,0,Medium,Heavy Rainfall,Field Verified
+LS_00657,14.557927,73.560949,Uttarakhand,Lahaul Spiti,2021-12-09,Complex landslide,2788.4203958921566,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00658,11.4991,72.993158,Jammu & Kashmir,Lahaul Spiti,2005-10-17,Earth slide,7648.219716832733,1,Low,Earthquake,Satellite Identified
+LS_00659,18.999615,72.914067,Tamil Nadu,Dakshina Kannada,1999-04-08,Earth flow,15651.107082044258,0,Low,Heavy Rainfall,Satellite Identified
+LS_00660,28.763095,79.219336,Sikkim,Kullu,2020-01-30,Earth flow,1905.8820690720643,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00661,19.144002,75.823255,Himachal Pradesh,Tehri Garhwal,1999-09-14,Rock slide,793.1918373443041,0,High,Heavy Rainfall,Satellite Identified
+LS_00662,31.504055,87.560226,Sikkim,Kodagu,1998-11-23,Rock fall,3572.5733270672217,0,Low,Earthquake,Satellite Identified
+LS_00663,9.7849,76.761934,Jammu & Kashmir,Idukki,2007-01-14,Earth flow,1993.609110129775,0,Medium,Earthquake,Report Based
+LS_00664,12.067954,76.292532,Uttarakhand,Uttarkashi,2000-09-02,Earth flow,706.0145951758321,0,Medium,Heavy Rainfall,Field Verified
+LS_00665,34.111302,77.546028,Tamil Nadu,Pithoragarh,2021-08-10,Earth slide,275.6336447784561,0,Low,Earthquake,Satellite Identified
+LS_00666,10.187622,76.182211,Tamil Nadu,Kullu,2002-07-14,Earth slide,3980.437931239487,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00667,31.226288,91.402889,Assam,East Khasi Hills,2005-01-24,Topple,8846.939419221182,0,Low,Earthquake,Satellite Identified
+LS_00668,17.061314,73.814914,Sikkim,South Garo Hills,2005-10-25,Earth slide,10571.388939487411,0,Low,Heavy Rainfall,Satellite Identified
+LS_00669,28.330377,94.189749,Assam,Kullu,2005-11-12,Debris flow,5684.103637505,0,Low,Heavy Rainfall,Report Based
+LS_00670,30.087907,90.285611,Uttarakhand,South Garo Hills,2005-12-21,Complex landslide,2497.135820407972,0,Low,Heavy Rainfall,Report Based
+LS_00671,30.583953,81.501039,Arunachal Pradesh,Idukki,2006-03-03,Rock slide,2108.6708057373007,0,Low,Human Activity,Satellite Identified
+LS_00672,31.554305,76.905803,Jammu & Kashmir,Idukki,2020-04-04,Debris slide,20296.684976046614,0,Low,Heavy Rainfall,Satellite Identified
+LS_00673,30.90602,82.866037,Tamil Nadu,Shimla,2013-07-23,Debris slide,7687.0730112586125,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00674,13.954372,73.283236,Uttarakhand,Mandi,2018-01-13,Rock slide,6973.938290292367,0,Low,Heavy Rainfall,Report Based
+LS_00675,31.046836,93.334519,Tamil Nadu,Mandi,2001-01-15,Debris slide,2115.728767429429,0,Low,Heavy Rainfall,Field Verified
+LS_00676,28.001589,93.215032,Assam,Pathanamthitta,2000-02-28,Complex landslide,9285.632827085457,0,Low,Heavy Rainfall,Field Verified
+LS_00677,33.068204,93.504967,Meghalaya,Kozhikode,2016-07-28,Earth slide,2815.296984773289,0,Low,Heavy Rainfall,Satellite Identified
+LS_00678,16.077298,75.593591,Meghalaya,Dakshina Kannada,2002-07-20,Rock slide,586.0612365967521,0,High,Heavy Rainfall,Field Verified
+LS_00679,29.329127,74.818115,Himachal Pradesh,Tehri Garhwal,2018-03-30,Debris flow,2486.347083925783,0,Low,Heavy Rainfall,Satellite Identified
+LS_00680,31.562258,92.090359,Karnataka,Chamoli,2012-04-18,Debris slide,10050.908730809611,0,Medium,Heavy Rainfall,Report Based
+LS_00681,14.282017,76.93448,Assam,Shimla,2005-08-19,Debris slide,7023.704510181924,0,Low,Snowmelt,Satellite Identified
+LS_00682,28.681568,88.833812,Arunachal Pradesh,Udupi,2013-02-27,Topple,2120.0264949748575,0,Low,Heavy Rainfall,Satellite Identified
+LS_00683,30.361314,91.377998,Jammu & Kashmir,Udupi,2017-05-07,Complex landslide,2.9905883575644285,0,Low,Heavy Rainfall,Field Verified
+LS_00684,29.30987,85.666541,Himachal Pradesh,Idukki,2000-05-27,Rock slide,1722.0457637370562,0,Low,Human Activity,Report Based
+LS_00685,31.450699,80.933275,Sikkim,Hassan,2016-05-11,Debris flow,564.727735982155,2,Low,Heavy Rainfall,Field Verified
+LS_00686,12.165217,72.821434,Kerala,Chamoli,2011-05-05,Rock fall,7643.010617979017,0,Medium,Heavy Rainfall,Field Verified
+LS_00687,19.822584,72.950644,Meghalaya,Uttarkashi,2022-08-28,Rock fall,8608.83981039034,0,Low,Snowmelt,Field Verified
+LS_00688,19.175389,72.84405,Assam,Pithoragarh,1998-03-04,Debris flow,9618.787577866015,0,Low,Earthquake,Report Based
+LS_00689,19.819628,76.098124,Himachal Pradesh,Rudraprayag,2006-12-16,Rock slide,10954.831739603525,0,Low,Heavy Rainfall,Satellite Identified
+LS_00690,30.753245,85.435662,Himachal Pradesh,Kodagu,2011-02-03,Debris slide,871.0512926934542,0,Low,Heavy Rainfall,Satellite Identified
+LS_00691,18.353727,75.697346,Meghalaya,Kodagu,2015-10-31,Debris flow,5185.719264139446,0,Low,Heavy Rainfall,Satellite Identified
+LS_00692,30.894616,74.83604,Assam,Shimla,2022-05-29,Earth slide,1600.9443618852379,2,High,Heavy Rainfall,Field Verified
+LS_00693,10.328234,73.961089,Jammu & Kashmir,Pathanamthitta,2014-07-28,Rock fall,14761.419659569101,0,Medium,Heavy Rainfall,Report Based
+LS_00694,12.961014,75.876173,Meghalaya,Mandi,2017-09-22,Rock slide,2097.245267582794,0,Low,Heavy Rainfall,Report Based
+LS_00695,19.929415,76.437345,Jammu & Kashmir,South Garo Hills,2000-10-06,Debris slide,4909.928943261175,0,Low,Heavy Rainfall,Satellite Identified
+LS_00696,32.449517,81.475113,Sikkim,Malappuram,2013-06-03,Rock slide,803.8187163035274,0,Medium,Heavy Rainfall,Field Verified
+LS_00697,29.376817,78.987149,Sikkim,Malappuram,2015-05-14,Topple,1782.6432945840843,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00698,33.767984,78.285841,Karnataka,Pithoragarh,2019-05-14,Complex landslide,3165.3499900349047,0,Low,Heavy Rainfall,Satellite Identified
+LS_00699,30.400508,88.361273,Arunachal Pradesh,Chikmagalur,2020-07-10,Earth flow,128.3770737638887,0,Low,Heavy Rainfall,Satellite Identified
+LS_00700,29.685627,82.122952,Jammu & Kashmir,Shimla,2018-02-22,Rock slide,420.0656300335847,0,Low,Heavy Rainfall,Report Based
+LS_00701,28.042329,84.161065,Uttarakhand,Malappuram,2003-08-30,Debris slide,657.6524538653421,0,High,Heavy Rainfall,Report Based
+LS_00702,10.675327,75.707831,Jammu & Kashmir,Udupi,2007-01-22,Debris flow,3955.754838216908,0,Low,Heavy Rainfall,Field Verified
+LS_00703,10.160982,76.582446,Himachal Pradesh,Kozhikode,2001-01-02,Complex landslide,1986.2809595998929,0,Medium,Heavy Rainfall,Report Based
+LS_00704,17.593061,74.987146,Sikkim,Pathanamthitta,2010-05-23,Rock fall,10638.755849505416,0,Low,Heavy Rainfall,Field Verified
+LS_00705,17.670767,76.59604,Assam,Uttarkashi,2003-01-18,Earth flow,2756.2430028113017,0,High,Heavy Rainfall,Satellite Identified
+LS_00706,30.461549,93.100518,Arunachal Pradesh,Chamoli,2002-09-27,Debris flow,4207.719535815295,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00707,19.030133,73.816277,Karnataka,Kozhikode,2016-06-07,Topple,7897.821368013676,2,Medium,Heavy Rainfall,Satellite Identified
+LS_00708,18.985515,73.975267,Jammu & Kashmir,Mandi,1999-09-06,Complex landslide,263.1206829634183,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00709,30.498877,87.329627,Uttarakhand,Kozhikode,2016-01-08,Earth slide,1031.5538839664775,0,Low,Heavy Rainfall,Field Verified
+LS_00710,33.240261,84.134626,Meghalaya,Mandi,2000-03-18,Earth slide,1216.931809890208,2,Medium,Snowmelt,Satellite Identified
+LS_00711,31.325702,92.85706,Karnataka,Kullu,2013-02-26,Debris flow,3722.72177271802,0,Low,Heavy Rainfall,Field Verified
+LS_00712,10.67774,72.004717,Kerala,Uttarkashi,2002-05-29,Debris flow,200.283581105462,3,Low,Heavy Rainfall,Satellite Identified
+LS_00713,15.158586,72.765723,Karnataka,Malappuram,2012-05-24,Debris slide,6511.906913898306,0,Medium,Earthquake,Report Based
+LS_00714,32.014943,81.174463,Kerala,Malappuram,2017-10-25,Topple,5227.2236948028785,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00715,18.60469,74.986562,Sikkim,Shimla,2000-07-09,Debris slide,2501.3701101250413,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00716,9.145748,75.883992,Assam,Uttarkashi,2020-09-25,Rock fall,9404.515398126732,0,Low,Heavy Rainfall,Satellite Identified
+LS_00717,31.747434,87.34179,Kerala,Tehri Garhwal,2006-08-25,Rock slide,1093.8093679768638,0,Low,Heavy Rainfall,Satellite Identified
+LS_00718,34.005544,88.005476,Uttarakhand,Wayanad,2018-06-23,Rock slide,2858.156256583508,2,Medium,Human Activity,Satellite Identified
+LS_00719,11.365756,72.264133,Meghalaya,Chikmagalur,2014-07-11,Complex landslide,6474.684487511171,0,Low,Heavy Rainfall,Satellite Identified
+LS_00720,32.204082,77.491362,Kerala,Wayanad,1999-05-16,Topple,2388.0617500038115,0,High,Heavy Rainfall,Report Based
+LS_00721,17.908757,74.958585,Meghalaya,Dakshina Kannada,2005-12-19,Earth slide,1066.1107153887137,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00722,14.872536,73.672213,Karnataka,South Garo Hills,2005-05-03,Debris slide,3662.6915446453263,0,Medium,Heavy Rainfall,Field Verified
+LS_00723,13.671198,75.291537,Assam,Tehri Garhwal,1999-03-26,Earth flow,2878.748428817034,0,Low,Heavy Rainfall,Report Based
+LS_00724,34.458516,84.549808,Kerala,West Garo Hills,2007-12-06,Rock slide,1986.6216270422863,0,Low,Heavy Rainfall,Satellite Identified
+LS_00725,19.966967,72.060015,Sikkim,Rudraprayag,2016-05-15,Rock fall,4023.913109115993,0,Low,Heavy Rainfall,Report Based
+LS_00726,14.734136,75.070931,Jammu & Kashmir,Udupi,2003-12-08,Rock fall,1349.9297670397966,0,Low,Heavy Rainfall,Field Verified
+LS_00727,33.862308,79.036219,Arunachal Pradesh,Kullu,2009-04-28,Debris flow,1084.3058312969117,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00728,9.549736,72.182305,Tamil Nadu,Pathanamthitta,2014-11-21,Debris flow,270.9292223847981,0,Low,Heavy Rainfall,Satellite Identified
+LS_00729,33.907954,79.510576,Karnataka,West Garo Hills,2018-12-08,Complex landslide,2738.421661806102,0,Low,Heavy Rainfall,Satellite Identified
+LS_00730,30.326987,80.626197,Sikkim,West Garo Hills,1998-05-01,Earth slide,563.7365377439869,0,Low,Earthquake,Report Based
+LS_00731,20.610968,76.325355,Himachal Pradesh,Kodagu,2011-05-23,Debris slide,4591.365343776415,0,Low,Heavy Rainfall,Satellite Identified
+LS_00732,14.266225,75.788883,Tamil Nadu,Mandi,2010-05-27,Debris flow,1655.8600276558298,0,High,Heavy Rainfall,Satellite Identified
+LS_00733,19.86641,75.051815,Jammu & Kashmir,Chikmagalur,2006-06-14,Rock slide,3952.775611979838,0,Low,Human Activity,Satellite Identified
+LS_00734,31.603195,76.091174,Tamil Nadu,West Garo Hills,2016-02-16,Earth flow,80.7899831147088,2,Low,Heavy Rainfall,Field Verified
+LS_00735,32.7818,93.583901,Karnataka,Mandi,2020-04-23,Complex landslide,4286.16318795958,0,Low,Earthquake,Satellite Identified
+LS_00736,19.437891,75.243415,Uttarakhand,Dakshina Kannada,2015-06-02,Rock slide,11475.511708146918,0,Low,Heavy Rainfall,Field Verified
+LS_00737,19.814744,75.802,Sikkim,East Khasi Hills,2007-12-23,Topple,5641.210266796739,0,Low,Earthquake,Satellite Identified
+LS_00738,10.935264,75.08311,Karnataka,Shimla,2020-10-03,Earth flow,205.84908823963647,0,Low,Heavy Rainfall,Report Based
+LS_00739,10.718266,72.651766,Meghalaya,Uttarkashi,2002-05-19,Debris flow,1137.8596725190914,0,Low,Heavy Rainfall,Field Verified
+LS_00740,28.241019,83.362337,Himachal Pradesh,Lahaul Spiti,2013-01-21,Earth slide,8481.934907777897,0,Low,Heavy Rainfall,Report Based
+LS_00741,30.715809,91.420882,Assam,Idukki,2011-10-11,Earth slide,717.5949691092815,1,Medium,Human Activity,Satellite Identified
+LS_00742,12.724251,76.690906,Meghalaya,Chamoli,2011-03-11,Topple,1611.8284514397421,0,Medium,Earthquake,Report Based
+LS_00743,29.433617,90.757959,Meghalaya,Kinnaur,2001-03-12,Debris slide,6707.485617017292,0,Low,Heavy Rainfall,Satellite Identified
+LS_00744,20.778309,75.213887,Karnataka,Malappuram,2021-10-07,Rock fall,6323.502451526385,3,Low,Earthquake,Satellite Identified
+LS_00745,34.086736,77.793808,Kerala,Idukki,2004-02-29,Complex landslide,14752.473209791939,0,Low,Earthquake,Satellite Identified
+LS_00746,15.906748,74.222868,Tamil Nadu,South Garo Hills,2004-06-04,Earth flow,6781.152938586439,0,Low,Heavy Rainfall,Satellite Identified
+LS_00747,29.17614,81.450743,Tamil Nadu,East Khasi Hills,2019-11-15,Earth flow,2553.986606612281,0,Low,Human Activity,Field Verified
+LS_00748,15.771504,75.323696,Uttarakhand,Pathanamthitta,2000-08-08,Debris flow,2717.903650679673,0,Low,Heavy Rainfall,Field Verified
+LS_00749,32.842041,87.888196,Arunachal Pradesh,Shimla,2005-07-25,Topple,195.78813781308682,0,High,Heavy Rainfall,Satellite Identified
+LS_00750,34.369511,89.062499,Arunachal Pradesh,Malappuram,2003-10-22,Complex landslide,4362.208191713996,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00751,13.018662,76.833531,Meghalaya,Kozhikode,2017-03-31,Rock fall,5972.856590439909,0,Medium,Heavy Rainfall,Field Verified
+LS_00752,31.848021,82.76045,Kerala,Wayanad,2021-12-11,Rock fall,10508.41141219809,0,Medium,Heavy Rainfall,Field Verified
+LS_00753,20.633989,74.563076,Kerala,Rudraprayag,2021-10-27,Rock fall,1718.6303907754373,0,Medium,Heavy Rainfall,Field Verified
+LS_00754,28.903499,80.255047,Tamil Nadu,Kullu,2008-02-25,Earth flow,7571.73166988026,0,Low,Heavy Rainfall,Satellite Identified
+LS_00755,34.579471,81.203561,Sikkim,Dakshina Kannada,2015-03-17,Debris flow,22166.210588711576,0,Low,Human Activity,Satellite Identified
+LS_00756,32.967699,94.657943,Uttarakhand,Kullu,2000-12-05,Debris flow,257.38945354293116,0,Medium,Heavy Rainfall,Field Verified
+LS_00757,8.511704,72.109234,Arunachal Pradesh,Chikmagalur,2021-05-04,Earth slide,7446.856389096141,0,Low,Heavy Rainfall,Satellite Identified
+LS_00758,8.352386,75.917508,Tamil Nadu,Kodagu,2004-01-02,Earth slide,52.8443945082271,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00759,31.338884,82.173381,Assam,Rudraprayag,2005-05-25,Rock slide,10920.657427566515,0,Low,Heavy Rainfall,Report Based
+LS_00760,34.734409,84.68814,Kerala,Rudraprayag,2003-11-20,Earth flow,3014.9312249787367,0,High,Heavy Rainfall,Satellite Identified
+LS_00761,29.977852,79.859174,Uttarakhand,Kozhikode,2014-06-12,Debris flow,2595.705402521725,10,Low,Heavy Rainfall,Field Verified
+LS_00762,29.081646,83.230822,Himachal Pradesh,East Khasi Hills,2000-02-25,Rock fall,3571.4468630962497,0,Low,Heavy Rainfall,Satellite Identified
+LS_00763,34.765909,93.838855,Assam,Pathanamthitta,2003-03-13,Complex landslide,2038.9261636121576,0,High,Heavy Rainfall,Satellite Identified
+LS_00764,34.638587,75.91784,Karnataka,Kodagu,2022-07-20,Earth flow,880.3915486109798,2,Low,Heavy Rainfall,Field Verified
+LS_00765,31.149606,88.551087,Karnataka,Malappuram,1998-06-02,Debris slide,6605.537341168576,10,Low,Heavy Rainfall,Satellite Identified
+LS_00766,13.273388,72.845809,Assam,Chamoli,2004-02-26,Debris slide,18961.556528390345,0,Low,Heavy Rainfall,Field Verified
+LS_00767,15.069232,75.474851,Himachal Pradesh,Kodagu,2003-02-11,Rock slide,3619.7541789296138,5,Medium,Heavy Rainfall,Satellite Identified
+LS_00768,29.193238,82.074832,Sikkim,Kinnaur,2009-10-18,Earth slide,2130.576442768848,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00769,15.494356,73.710347,Jammu & Kashmir,Tehri Garhwal,2011-04-02,Topple,8303.09668864543,0,Low,Heavy Rainfall,Field Verified
+LS_00770,28.063609,87.614248,Tamil Nadu,Lahaul Spiti,2019-07-25,Rock fall,3577.923359336209,0,High,Heavy Rainfall,Satellite Identified
+LS_00771,28.976152,85.953336,Himachal Pradesh,Dakshina Kannada,2001-12-29,Topple,10123.99512678854,0,Medium,Heavy Rainfall,Field Verified
+LS_00772,31.205302,82.284067,Sikkim,Pithoragarh,2002-01-15,Debris slide,10089.293761294102,0,High,Snowmelt,Field Verified
+LS_00773,12.524675,76.477779,Meghalaya,Kullu,2008-05-15,Debris flow,16999.32448348955,0,Low,Heavy Rainfall,Satellite Identified
+LS_00774,11.555169,75.682366,Himachal Pradesh,Shimla,2000-03-31,Rock fall,265.1970219359077,0,Low,Heavy Rainfall,Satellite Identified
+LS_00775,14.383257,73.603668,Tamil Nadu,Malappuram,2014-02-27,Debris slide,1067.562387214976,0,High,Heavy Rainfall,Satellite Identified
+LS_00776,32.035815,94.650156,Uttarakhand,Uttarkashi,2000-01-22,Earth flow,1382.7300555338743,0,Medium,Heavy Rainfall,Field Verified
+LS_00777,16.79934,72.320474,Meghalaya,Udupi,2014-01-14,Debris flow,4533.467781591341,0,Low,Earthquake,Field Verified
+LS_00778,33.90669,83.66691,Tamil Nadu,Shimla,2014-09-19,Debris slide,1226.8687309126556,0,High,Heavy Rainfall,Field Verified
+LS_00779,12.521691,75.101174,Meghalaya,Mandi,2015-12-15,Complex landslide,3935.103901735318,0,Low,Heavy Rainfall,Field Verified
+LS_00780,13.344876,75.520157,Jammu & Kashmir,Chamoli,2016-12-01,Earth flow,1226.006039278473,0,Low,Snowmelt,Report Based
+LS_00781,33.600963,79.074837,Himachal Pradesh,Malappuram,2005-02-24,Topple,352.3125083853791,0,Low,Heavy Rainfall,Satellite Identified
+LS_00782,19.158198,76.22432,Arunachal Pradesh,Kozhikode,2006-02-17,Earth slide,2228.901477439502,0,Low,Heavy Rainfall,Satellite Identified
+LS_00783,28.068793,82.592834,Meghalaya,Kodagu,2003-11-11,Debris slide,1997.7576588575598,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00784,11.820918,74.231632,Uttarakhand,Pithoragarh,2017-10-08,Debris flow,6491.756753103576,0,High,Heavy Rainfall,Satellite Identified
+LS_00785,15.925865,76.575492,Sikkim,Dakshina Kannada,1998-07-22,Rock slide,850.1597712233925,0,Low,Heavy Rainfall,Satellite Identified
+LS_00786,12.339096,74.896567,Sikkim,South Garo Hills,2021-04-14,Debris slide,10991.152902598855,0,Medium,Heavy Rainfall,Field Verified
+LS_00787,11.027161,74.460009,Meghalaya,Wayanad,2009-02-24,Complex landslide,1857.0236523790747,0,Low,Heavy Rainfall,Field Verified
+LS_00788,31.247898,76.798969,Uttarakhand,East Khasi Hills,2000-06-13,Earth flow,13137.81947976804,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00789,18.503445,75.838823,Jammu & Kashmir,Pithoragarh,2020-03-29,Topple,604.9991349774558,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00790,13.958725,74.643537,Tamil Nadu,Mandi,2008-10-21,Rock fall,174.90821702259817,0,Low,Heavy Rainfall,Field Verified
+LS_00791,31.817996,76.801743,Assam,Kozhikode,2022-09-11,Rock slide,5882.491899623759,0,Low,Heavy Rainfall,Field Verified
+LS_00792,34.139893,85.091974,Meghalaya,Dakshina Kannada,2018-08-05,Topple,3148.618241527925,0,Medium,Human Activity,Satellite Identified
+LS_00793,32.382383,75.580853,Meghalaya,Idukki,2020-05-11,Debris slide,596.1536932293031,0,Low,Heavy Rainfall,Field Verified
+LS_00794,13.005755,76.714914,Himachal Pradesh,Kozhikode,1998-10-19,Complex landslide,4712.86630451339,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00795,29.925692,87.421265,Sikkim,Rudraprayag,2022-12-29,Debris slide,2084.8702151148873,10,Low,Heavy Rainfall,Report Based
+LS_00796,8.320377,75.483445,Sikkim,Kinnaur,2020-10-20,Topple,6460.8588080658665,0,High,Snowmelt,Field Verified
+LS_00797,18.683911,75.23155,Uttarakhand,Lahaul Spiti,2014-04-20,Topple,5211.284556163475,0,Medium,Snowmelt,Report Based
+LS_00798,13.708699,72.19974,Tamil Nadu,South Garo Hills,2019-03-23,Topple,2249.3855857565977,0,Medium,Heavy Rainfall,Field Verified
+LS_00799,30.988263,83.849524,Kerala,Rudraprayag,2002-05-16,Earth slide,13194.174074456996,0,Low,Heavy Rainfall,Field Verified
+LS_00800,20.643387,73.8003,Sikkim,Chikmagalur,2011-02-05,Earth slide,3249.1680700900256,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00801,29.877003,80.629038,Jammu & Kashmir,Kodagu,2000-01-21,Earth flow,669.0927755226514,0,Low,Heavy Rainfall,Satellite Identified
+LS_00802,19.580818,74.245189,Karnataka,Udupi,2002-10-19,Rock slide,3074.4875189969002,0,Medium,Earthquake,Field Verified
+LS_00803,30.949106,91.615626,Assam,Kinnaur,2003-06-02,Topple,10482.7540771773,0,Low,Heavy Rainfall,Field Verified
+LS_00804,34.377844,91.230658,Himachal Pradesh,Malappuram,2013-02-27,Rock fall,7136.308951975791,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00805,31.825335,75.918418,Meghalaya,West Garo Hills,2018-03-18,Earth flow,7066.2018151542825,0,Low,Heavy Rainfall,Field Verified
+LS_00806,8.741031,74.938992,Sikkim,Tehri Garhwal,1998-03-13,Complex landslide,9173.79972422134,0,Low,Heavy Rainfall,Satellite Identified
+LS_00807,12.247606,73.748072,Jammu & Kashmir,South Garo Hills,2020-10-20,Earth flow,4535.992180495252,0,Low,Heavy Rainfall,Satellite Identified
+LS_00808,32.065292,89.575367,Assam,West Garo Hills,2002-08-24,Earth slide,5623.203092174412,0,Low,Heavy Rainfall,Field Verified
+LS_00809,16.790545,76.293001,Arunachal Pradesh,South Garo Hills,2016-10-12,Rock slide,16448.179480354014,0,Low,Heavy Rainfall,Satellite Identified
+LS_00810,15.523834,75.091425,Tamil Nadu,Kullu,2015-11-06,Topple,7603.978863268138,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00811,33.955969,80.008836,Assam,Udupi,2004-03-13,Debris flow,5114.472238721316,0,High,Heavy Rainfall,Satellite Identified
+LS_00812,10.164546,75.561101,Kerala,Kinnaur,2022-10-31,Rock slide,967.2580337277714,0,Low,Human Activity,Field Verified
+LS_00813,9.87512,75.794884,Jammu & Kashmir,South Garo Hills,2013-06-28,Earth flow,3471.9350675156347,1,Low,Heavy Rainfall,Field Verified
+LS_00814,10.037886,75.417147,Tamil Nadu,Hassan,2003-03-06,Topple,4503.1281133883185,0,Low,Heavy Rainfall,Satellite Identified
+LS_00815,20.793163,73.461245,Karnataka,Malappuram,2021-12-13,Rock fall,1746.4913668912495,0,Low,Heavy Rainfall,Report Based
+LS_00816,29.859799,92.81213,Assam,Uttarkashi,1999-02-19,Rock fall,546.1458554704888,0,High,Heavy Rainfall,Report Based
+LS_00817,31.170184,93.860017,Karnataka,Shimla,2006-12-20,Debris flow,5647.729852201779,0,Low,Heavy Rainfall,Field Verified
+LS_00818,9.870284,72.523302,Uttarakhand,South Garo Hills,2004-07-27,Debris flow,2749.075863958956,0,Low,Heavy Rainfall,Satellite Identified
+LS_00819,29.380281,76.049811,Uttarakhand,Wayanad,2022-04-11,Topple,912.6993723510875,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00820,31.76093,88.21961,Sikkim,Kozhikode,2008-01-24,Rock slide,5739.083344354255,0,Low,Heavy Rainfall,Satellite Identified
+LS_00821,19.582661,74.847486,Assam,Kozhikode,2000-02-09,Complex landslide,8930.608209483182,5,Low,Heavy Rainfall,Satellite Identified
+LS_00822,20.739421,76.928004,Uttarakhand,Rudraprayag,2022-10-08,Debris flow,5802.629078183482,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00823,34.371373,82.039501,Kerala,East Khasi Hills,2017-11-16,Earth slide,4979.853812843907,0,Low,Heavy Rainfall,Satellite Identified
+LS_00824,34.553236,93.755768,Karnataka,Pathanamthitta,2006-09-06,Earth flow,960.534092700986,0,Medium,Heavy Rainfall,Field Verified
+LS_00825,29.875981,93.156373,Jammu & Kashmir,Chikmagalur,2006-05-22,Debris slide,5014.402010278992,0,Low,Heavy Rainfall,Field Verified
+LS_00826,12.879177,75.133767,Assam,Mandi,1999-10-28,Debris flow,789.6858299565791,0,Low,Heavy Rainfall,Satellite Identified
+LS_00827,32.172305,76.256462,Arunachal Pradesh,Mandi,2005-03-21,Rock fall,85.287273264659,1,Low,Earthquake,Report Based
+LS_00828,10.748606,73.325854,Jammu & Kashmir,Tehri Garhwal,2018-12-02,Earth flow,5436.281873638287,2,High,Heavy Rainfall,Satellite Identified
+LS_00829,9.764696,76.887191,Arunachal Pradesh,West Garo Hills,2000-04-13,Debris flow,16670.484262668804,0,Low,Heavy Rainfall,Field Verified
+LS_00830,18.607425,73.891578,Tamil Nadu,Pithoragarh,2022-09-05,Earth slide,462.75327329987704,0,High,Heavy Rainfall,Satellite Identified
+LS_00831,29.16577,94.709713,Sikkim,Pithoragarh,2006-04-01,Earth flow,8597.631525189314,0,Low,Heavy Rainfall,Field Verified
+LS_00832,15.549992,76.643817,Sikkim,Kozhikode,2022-05-12,Debris slide,3433.2757772182476,0,Low,Heavy Rainfall,Satellite Identified
+LS_00833,10.261528,73.80608,Kerala,West Garo Hills,2007-12-04,Earth slide,5070.925892504657,0,Low,Heavy Rainfall,Report Based
+LS_00834,14.168936,76.080284,Karnataka,Kinnaur,2014-03-09,Topple,2828.7616345110405,0,Low,Human Activity,Satellite Identified
+LS_00835,32.230131,87.230392,Tamil Nadu,Pathanamthitta,2003-02-23,Rock slide,2701.125777246215,0,Low,Heavy Rainfall,Satellite Identified
+LS_00836,29.655324,78.441642,Tamil Nadu,Kozhikode,1999-10-16,Debris slide,6659.701386750012,0,Low,Heavy Rainfall,Report Based
+LS_00837,19.070558,76.318948,Sikkim,Kullu,2009-07-05,Rock fall,2610.8970788653373,0,Low,Heavy Rainfall,Field Verified
+LS_00838,15.625823,74.276975,Sikkim,Pathanamthitta,2021-01-26,Topple,3649.215048235608,0,Low,Heavy Rainfall,Satellite Identified
+LS_00839,33.125534,78.893398,Kerala,Idukki,2011-04-19,Debris slide,8387.031664297618,0,Low,Heavy Rainfall,Satellite Identified
+LS_00840,33.809577,82.728183,Sikkim,Hassan,2005-07-05,Rock fall,1494.0550440639474,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00841,29.429795,87.162855,Kerala,West Garo Hills,2007-06-16,Complex landslide,2221.6210155004064,10,Low,Heavy Rainfall,Satellite Identified
+LS_00842,34.417292,90.81718,Sikkim,South Garo Hills,2007-03-23,Complex landslide,2999.4689342521833,0,Low,Heavy Rainfall,Field Verified
+LS_00843,31.247554,79.16219,Uttarakhand,Pathanamthitta,2004-11-24,Earth slide,12316.243420641002,0,High,Heavy Rainfall,Satellite Identified
+LS_00844,31.800583,76.716993,Himachal Pradesh,Tehri Garhwal,2001-12-04,Earth flow,2356.59221824097,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00845,10.866116,72.82283,Arunachal Pradesh,Lahaul Spiti,2001-02-28,Debris flow,2607.177137396339,1,Medium,Heavy Rainfall,Satellite Identified
+LS_00846,9.094769,76.922879,Meghalaya,East Khasi Hills,2015-05-29,Complex landslide,5489.172526523907,0,Low,Heavy Rainfall,Report Based
+LS_00847,10.272205,75.240152,Uttarakhand,Kozhikode,2012-03-11,Debris slide,1408.1982405382992,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00848,34.247284,75.651161,Arunachal Pradesh,Tehri Garhwal,2000-11-02,Debris slide,2009.2191077925957,0,High,Heavy Rainfall,Satellite Identified
+LS_00849,16.901427,73.060406,Himachal Pradesh,Kullu,2020-07-22,Debris flow,1365.5943639142604,0,Low,Heavy Rainfall,Field Verified
+LS_00850,34.155751,94.277806,Meghalaya,Kozhikode,2010-08-18,Complex landslide,2089.488267305845,0,Low,Heavy Rainfall,Satellite Identified
+LS_00851,29.026258,77.352993,Jammu & Kashmir,Hassan,2019-04-06,Rock slide,7805.221276493058,0,Low,Heavy Rainfall,Satellite Identified
+LS_00852,30.581076,90.16436,Sikkim,Kullu,2015-07-17,Earth flow,8328.327133928746,0,High,Heavy Rainfall,Satellite Identified
+LS_00853,14.290404,76.487662,Uttarakhand,Hassan,2014-09-27,Earth flow,11916.874429382611,0,High,Earthquake,Satellite Identified
+LS_00854,29.406379,90.907503,Uttarakhand,Dakshina Kannada,1999-11-16,Complex landslide,9490.026372696993,0,High,Heavy Rainfall,Field Verified
+LS_00855,31.763068,86.091642,Kerala,Wayanad,2011-09-02,Rock slide,5180.301743803973,0,High,Heavy Rainfall,Field Verified
+LS_00856,8.182189,74.834292,Jammu & Kashmir,Shimla,2020-12-28,Earth flow,13460.900297228663,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00857,31.216941,84.478327,Kerala,Chamoli,2009-05-03,Earth flow,374.76649081804896,0,Low,Earthquake,Satellite Identified
+LS_00858,29.045671,87.613396,Meghalaya,East Khasi Hills,2022-08-15,Debris slide,946.0442719912357,0,Medium,Heavy Rainfall,Report Based
+LS_00859,14.738751,72.364492,Karnataka,Chamoli,2001-01-08,Rock slide,4928.644911053797,0,Medium,Earthquake,Report Based
+LS_00860,14.524304,74.274784,Tamil Nadu,Uttarkashi,2012-11-03,Rock slide,7001.471633450079,0,Low,Heavy Rainfall,Field Verified
+LS_00861,30.925889,91.918981,Arunachal Pradesh,Pithoragarh,2010-10-16,Rock slide,9695.046841351823,0,Low,Heavy Rainfall,Satellite Identified
+LS_00862,9.675734,75.599984,Meghalaya,Idukki,2019-10-18,Debris flow,533.2824398536798,0,Low,Earthquake,Field Verified
+LS_00863,32.474413,78.949333,Tamil Nadu,Malappuram,2014-05-08,Earth flow,6252.88175888835,0,Low,Human Activity,Satellite Identified
+LS_00864,28.889773,82.978379,Kerala,Lahaul Spiti,2012-01-19,Complex landslide,876.8903543235089,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00865,18.590126,76.680815,Jammu & Kashmir,West Garo Hills,2014-02-15,Earth slide,3602.7755154531164,2,Low,Heavy Rainfall,Satellite Identified
+LS_00866,14.408775,74.359513,Meghalaya,Wayanad,2018-10-06,Debris flow,3369.787326945151,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00867,14.395064,74.863863,Himachal Pradesh,Shimla,2022-09-30,Debris slide,1361.2567743746915,0,Low,Heavy Rainfall,Field Verified
+LS_00868,11.104987,76.746406,Sikkim,Kinnaur,2004-04-12,Debris flow,1819.9343898886204,0,Low,Heavy Rainfall,Field Verified
+LS_00869,30.262017,85.426281,Uttarakhand,Chikmagalur,2001-05-20,Rock fall,4011.6011291850155,0,Low,Snowmelt,Satellite Identified
+LS_00870,11.356949,73.217335,Uttarakhand,Hassan,2007-07-18,Debris flow,3060.2753895849073,0,Low,Heavy Rainfall,Field Verified
+LS_00871,13.446129,75.879325,Tamil Nadu,Kozhikode,2004-09-01,Rock slide,2067.98760187681,0,Low,Heavy Rainfall,Field Verified
+LS_00872,19.083054,72.990982,Meghalaya,Chikmagalur,2004-01-03,Debris slide,10373.186769794065,0,Medium,Heavy Rainfall,Report Based
+LS_00873,9.646283,72.892599,Sikkim,Rudraprayag,2014-04-28,Rock slide,3396.5184780773825,0,Low,Human Activity,Report Based
+LS_00874,30.633815,93.389006,Jammu & Kashmir,Pathanamthitta,2021-01-23,Earth flow,3935.363030303842,0,Medium,Heavy Rainfall,Report Based
+LS_00875,29.855331,88.11325,Meghalaya,Wayanad,2004-07-23,Rock fall,267.1291754450657,0,Low,Snowmelt,Satellite Identified
+LS_00876,33.507061,84.704248,Kerala,Pithoragarh,2019-11-16,Debris flow,1783.8539062651907,0,Low,Heavy Rainfall,Satellite Identified
+LS_00877,15.015603,72.387418,Uttarakhand,West Garo Hills,2008-07-01,Rock slide,90.96755877681319,0,Low,Human Activity,Satellite Identified
+LS_00878,18.423737,74.331873,Meghalaya,Pathanamthitta,2015-05-30,Rock fall,2244.4687599057743,0,Medium,Earthquake,Field Verified
+LS_00879,31.585824,84.234871,Himachal Pradesh,South Garo Hills,2012-07-15,Debris flow,4905.367116581393,2,Low,Heavy Rainfall,Field Verified
+LS_00880,8.817797,72.936734,Arunachal Pradesh,Shimla,2022-06-02,Complex landslide,165.0482219839466,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00881,10.012218,73.505878,Arunachal Pradesh,East Khasi Hills,2014-05-22,Debris slide,1431.594337931888,0,Low,Heavy Rainfall,Satellite Identified
+LS_00882,20.825403,72.279632,Kerala,Chikmagalur,2014-11-18,Complex landslide,766.8129811598557,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00883,14.655202,74.635038,Meghalaya,Kodagu,2013-06-24,Rock fall,4123.055076990261,0,Low,Heavy Rainfall,Satellite Identified
+LS_00884,29.470824,76.442966,Jammu & Kashmir,Lahaul Spiti,2017-09-25,Debris slide,17552.30860641273,0,Medium,Earthquake,Field Verified
+LS_00885,9.763146,72.728143,Jammu & Kashmir,Shimla,2007-06-28,Earth flow,5977.239841693193,0,Medium,Human Activity,Satellite Identified
+LS_00886,10.02607,73.217213,Kerala,Malappuram,2003-04-23,Earth slide,9231.935715261263,0,Low,Heavy Rainfall,Satellite Identified
+LS_00887,34.44028,87.655356,Meghalaya,Kodagu,2019-08-08,Rock slide,473.8560032525738,2,Low,Heavy Rainfall,Satellite Identified
+LS_00888,28.35857,84.426824,Uttarakhand,Lahaul Spiti,2016-06-07,Rock fall,658.0575614469336,0,Low,Earthquake,Satellite Identified
+LS_00889,29.07389,81.697575,Jammu & Kashmir,East Khasi Hills,2005-03-24,Rock fall,2336.860761356089,0,Medium,Heavy Rainfall,Field Verified
+LS_00890,30.567053,76.221906,Jammu & Kashmir,Mandi,2000-07-05,Earth flow,4947.084737564513,0,High,Earthquake,Satellite Identified
+LS_00891,15.521331,76.556709,Karnataka,Pithoragarh,1998-11-02,Rock slide,4038.2947676294552,0,Low,Earthquake,Satellite Identified
+LS_00892,16.459417,76.334107,Meghalaya,Shimla,2019-02-23,Rock slide,11220.310211425007,1,Low,Heavy Rainfall,Satellite Identified
+LS_00893,17.840049,75.033581,Arunachal Pradesh,Shimla,2004-05-27,Debris flow,912.3318474960867,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00894,29.217842,81.087018,Meghalaya,Udupi,2013-05-16,Debris slide,91.23276329167064,0,Low,Heavy Rainfall,Satellite Identified
+LS_00895,33.854039,78.524721,Assam,Uttarkashi,2014-12-19,Debris slide,641.905234774826,0,Low,Snowmelt,Satellite Identified
+LS_00896,31.506136,94.60985,Sikkim,Chikmagalur,2007-01-29,Complex landslide,512.2500492822376,0,Medium,Heavy Rainfall,Report Based
+LS_00897,28.459383,85.537648,Jammu & Kashmir,Kodagu,2002-04-27,Rock fall,4468.566008999014,0,Low,Heavy Rainfall,Satellite Identified
+LS_00898,29.364599,91.364225,Meghalaya,West Garo Hills,2002-03-07,Earth flow,4135.1694432532895,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00899,34.074062,83.074441,Sikkim,Malappuram,2017-05-10,Earth slide,16994.615382776297,0,Low,Heavy Rainfall,Report Based
+LS_00900,30.238046,92.230061,Assam,Lahaul Spiti,2021-10-07,Topple,10653.702882814676,0,Low,Heavy Rainfall,Satellite Identified
+LS_00901,18.178007,74.213274,Arunachal Pradesh,South Garo Hills,2013-09-21,Debris slide,3320.5322939763532,0,Low,Heavy Rainfall,Satellite Identified
+LS_00902,12.775427,74.629733,Karnataka,Kodagu,2004-01-03,Rock slide,8272.161865201735,0,Low,Heavy Rainfall,Field Verified
+LS_00903,29.94266,93.601676,Arunachal Pradesh,Hassan,2010-09-16,Complex landslide,6428.347525049536,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00904,14.623615,74.728748,Uttarakhand,South Garo Hills,2006-06-24,Rock fall,2226.9361852603593,0,Low,Snowmelt,Satellite Identified
+LS_00905,31.266782,75.106906,Uttarakhand,Kozhikode,2021-04-25,Rock slide,191.45012551766308,0,Low,Heavy Rainfall,Field Verified
+LS_00906,17.68176,72.841183,Tamil Nadu,Chamoli,2016-05-04,Earth flow,1053.202355896254,0,Low,Heavy Rainfall,Satellite Identified
+LS_00907,16.462633,76.122585,Karnataka,Hassan,2009-05-18,Complex landslide,2703.921062742338,0,Low,Snowmelt,Satellite Identified
+LS_00908,17.226582,72.036789,Assam,Kinnaur,2010-05-12,Complex landslide,3651.190431518456,0,Low,Human Activity,Report Based
+LS_00909,15.027185,74.291024,Tamil Nadu,Hassan,2006-01-07,Topple,14503.664732887368,0,Low,Heavy Rainfall,Field Verified
+LS_00910,14.107456,74.277328,Arunachal Pradesh,Wayanad,2011-10-04,Complex landslide,4363.101623455592,0,Low,Heavy Rainfall,Satellite Identified
+LS_00911,32.648086,81.105725,Kerala,Pathanamthitta,2003-05-06,Earth flow,13707.235304485774,1,Low,Heavy Rainfall,Satellite Identified
+LS_00912,33.793272,94.325156,Sikkim,Kozhikode,2007-08-15,Earth slide,11028.943458471647,0,Low,Heavy Rainfall,Field Verified
+LS_00913,31.217303,87.198582,Assam,East Khasi Hills,2005-03-18,Rock fall,4073.7707154040604,0,Low,Heavy Rainfall,Field Verified
+LS_00914,30.895659,89.753377,Meghalaya,Udupi,2004-07-09,Complex landslide,5911.070480371037,5,Low,Heavy Rainfall,Satellite Identified
+LS_00915,31.084222,91.995953,Karnataka,Lahaul Spiti,2000-11-15,Earth slide,5763.374573562422,0,Low,Human Activity,Field Verified
+LS_00916,34.220195,80.910549,Assam,Kozhikode,1999-09-11,Debris flow,1888.6731341513114,0,High,Heavy Rainfall,Satellite Identified
+LS_00917,33.996004,82.317144,Meghalaya,Pathanamthitta,2005-11-11,Rock fall,1110.451141250543,0,Low,Human Activity,Satellite Identified
+LS_00918,31.535809,94.755782,Karnataka,Kinnaur,2021-03-30,Rock fall,3130.03708365971,0,Low,Heavy Rainfall,Field Verified
+LS_00919,34.632956,90.103827,Uttarakhand,Wayanad,2005-08-08,Rock slide,1561.835961607561,0,Medium,Human Activity,Satellite Identified
+LS_00920,31.606346,90.267705,Himachal Pradesh,Mandi,2005-01-23,Complex landslide,4129.334557098909,0,Low,Heavy Rainfall,Satellite Identified
+LS_00921,11.4952,72.105185,Assam,Dakshina Kannada,2015-09-23,Rock slide,6415.787249398727,0,Low,Heavy Rainfall,Report Based
+LS_00922,31.389492,75.33563,Himachal Pradesh,Hassan,2001-01-29,Debris flow,4011.3289428950216,0,High,Heavy Rainfall,Satellite Identified
+LS_00923,19.786493,72.956211,Karnataka,Lahaul Spiti,2013-08-03,Rock slide,4778.133153733329,0,Low,Heavy Rainfall,Field Verified
+LS_00924,16.919185,76.743952,Arunachal Pradesh,Rudraprayag,2016-02-14,Debris flow,1560.1961536535675,0,Low,Heavy Rainfall,Field Verified
+LS_00925,34.538231,90.093377,Sikkim,Chamoli,2016-04-06,Debris slide,5363.990470887109,0,Medium,Snowmelt,Satellite Identified
+LS_00926,20.020562,74.585659,Himachal Pradesh,Chikmagalur,2013-04-02,Debris flow,622.5151446166626,0,Low,Heavy Rainfall,Satellite Identified
+LS_00927,16.09348,72.050235,Assam,Dakshina Kannada,2017-11-11,Topple,1083.5743709006497,0,High,Heavy Rainfall,Satellite Identified
+LS_00928,33.002873,86.679648,Meghalaya,West Garo Hills,2013-03-28,Topple,1775.7102406798176,0,Low,Snowmelt,Field Verified
+LS_00929,30.602857,74.542618,Himachal Pradesh,Mandi,2019-08-15,Debris slide,1253.7268278546949,0,Low,Heavy Rainfall,Satellite Identified
+LS_00930,8.1296,72.423831,Kerala,Idukki,2007-11-20,Complex landslide,8241.566034893647,0,High,Human Activity,Satellite Identified
+LS_00931,8.680327,75.914243,Sikkim,Rudraprayag,2021-03-03,Debris flow,9338.155790853141,0,Low,Heavy Rainfall,Satellite Identified
+LS_00932,33.09014,94.595985,Himachal Pradesh,Kozhikode,2010-11-20,Earth slide,846.1931501505029,0,Low,Earthquake,Field Verified
+LS_00933,28.466619,94.969777,Jammu & Kashmir,Kodagu,2022-11-16,Earth slide,125.65175057370789,0,Low,Earthquake,Satellite Identified
+LS_00934,19.721206,76.630965,Arunachal Pradesh,Mandi,2007-10-21,Earth flow,45.69911248703786,0,Low,Heavy Rainfall,Satellite Identified
+LS_00935,31.219594,86.746435,Kerala,Lahaul Spiti,2020-05-20,Rock slide,1044.353553147773,0,High,Heavy Rainfall,Satellite Identified
+LS_00936,9.119509,74.795683,Kerala,Kinnaur,2007-04-11,Rock slide,3493.648085488875,0,Low,Heavy Rainfall,Satellite Identified
+LS_00937,15.613506,72.042478,Himachal Pradesh,Chamoli,2004-12-30,Debris slide,7156.5838031285075,0,Low,Heavy Rainfall,Satellite Identified
+LS_00938,20.417277,73.200758,Sikkim,Tehri Garhwal,1998-04-19,Topple,1954.2960798780618,0,Low,Heavy Rainfall,Satellite Identified
+LS_00939,17.061169,74.80058,Meghalaya,Dakshina Kannada,2012-02-24,Debris flow,2442.5699842621966,0,Low,Heavy Rainfall,Field Verified
+LS_00940,19.456355,72.389395,Sikkim,Mandi,2006-03-16,Complex landslide,6134.562872142879,1,Low,Heavy Rainfall,Satellite Identified
+LS_00941,34.171963,93.780017,Uttarakhand,Chikmagalur,2003-10-03,Complex landslide,6726.9762116052925,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00942,8.638929,72.955311,Uttarakhand,Chikmagalur,2022-04-04,Earth slide,7815.482470786788,0,Low,Heavy Rainfall,Satellite Identified
+LS_00943,17.736987,73.361577,Meghalaya,Chamoli,2005-11-03,Topple,624.9928770167232,0,High,Heavy Rainfall,Satellite Identified
+LS_00944,15.753117,73.830141,Uttarakhand,West Garo Hills,1998-05-18,Rock slide,8228.098766509944,0,Low,Heavy Rainfall,Satellite Identified
+LS_00945,20.175413,73.541761,Tamil Nadu,Wayanad,2002-07-09,Debris flow,10183.487860880783,0,Low,Heavy Rainfall,Field Verified
+LS_00946,33.099458,78.193064,Karnataka,Lahaul Spiti,2022-08-10,Debris flow,2320.274156456823,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00947,14.305948,74.704135,Tamil Nadu,Shimla,2013-05-23,Topple,8528.660519464122,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00948,17.093862,74.060089,Assam,South Garo Hills,2007-06-12,Earth slide,744.8067567136397,0,Low,Heavy Rainfall,Satellite Identified
+LS_00949,19.789266,74.936849,Karnataka,Pathanamthitta,2015-12-21,Earth flow,446.35592010650174,0,Medium,Earthquake,Satellite Identified
+LS_00950,34.263233,79.621037,Himachal Pradesh,Mandi,2008-04-02,Rock slide,2643.2399918123465,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00951,9.154052,76.324975,Kerala,Uttarkashi,2015-02-01,Earth flow,1932.872619382958,0,Low,Heavy Rainfall,Field Verified
+LS_00952,12.167379,72.674892,Jammu & Kashmir,Malappuram,1998-06-09,Topple,1756.140208967916,0,Low,Heavy Rainfall,Satellite Identified
+LS_00953,34.25457,89.892574,Sikkim,Idukki,2021-03-11,Topple,2017.3407826020687,0,Low,Heavy Rainfall,Satellite Identified
+LS_00954,18.500131,73.231741,Sikkim,Dakshina Kannada,2009-04-04,Rock fall,326.7124019240458,0,Medium,Heavy Rainfall,Field Verified
+LS_00955,15.218846,74.637898,Jammu & Kashmir,Tehri Garhwal,2002-06-10,Rock slide,5327.376833625832,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00956,8.20962,73.863286,Himachal Pradesh,Pathanamthitta,2019-05-18,Earth slide,2167.084355378382,0,Low,Earthquake,Field Verified
+LS_00957,16.801492,76.016061,Tamil Nadu,Hassan,2014-03-12,Debris flow,4126.277431169043,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00958,11.831118,74.856065,Assam,Chamoli,1998-11-21,Earth slide,6840.263564285861,0,Low,Heavy Rainfall,Satellite Identified
+LS_00959,34.509452,85.446752,Jammu & Kashmir,Kullu,2022-02-25,Earth slide,5415.656775254085,1,Low,Heavy Rainfall,Satellite Identified
+LS_00960,18.708678,76.285145,Meghalaya,Pathanamthitta,2020-11-24,Debris slide,2681.633284170006,0,Low,Heavy Rainfall,Field Verified
+LS_00961,18.039478,72.377635,Meghalaya,East Khasi Hills,2010-11-08,Earth flow,8789.144896795797,0,Low,Heavy Rainfall,Satellite Identified
+LS_00962,28.627906,94.192418,Assam,East Khasi Hills,2013-02-18,Complex landslide,8232.108529276959,0,Low,Human Activity,Satellite Identified
+LS_00963,29.126891,85.826452,Jammu & Kashmir,Idukki,2001-07-20,Rock slide,14391.890679956556,0,Low,Human Activity,Field Verified
+LS_00964,9.472165,74.850936,Karnataka,South Garo Hills,2012-03-19,Debris flow,9896.85259238518,0,High,Heavy Rainfall,Field Verified
+LS_00965,20.906818,74.039471,Meghalaya,Wayanad,2010-03-03,Topple,1694.1929079601423,0,Low,Heavy Rainfall,Field Verified
+LS_00966,13.844584,76.184317,Jammu & Kashmir,Rudraprayag,2005-07-04,Earth flow,4246.843848553109,10,Low,Heavy Rainfall,Field Verified
+LS_00967,29.148445,79.988919,Himachal Pradesh,Kinnaur,2009-04-15,Earth flow,7871.320279851195,1,High,Heavy Rainfall,Satellite Identified
+LS_00968,12.267316,72.564203,Himachal Pradesh,Pithoragarh,2002-08-15,Topple,10202.062908402602,0,Low,Heavy Rainfall,Field Verified
+LS_00969,33.157562,83.521741,Assam,Chikmagalur,1999-03-08,Debris slide,22678.19501339773,0,Low,Heavy Rainfall,Satellite Identified
+LS_00970,30.211551,89.314045,Arunachal Pradesh,Uttarkashi,2009-10-10,Debris slide,10387.100869663209,1,Medium,Human Activity,Satellite Identified
+LS_00971,18.736547,73.51752,Kerala,Lahaul Spiti,2011-11-17,Debris flow,2541.467179883082,0,Low,Heavy Rainfall,Report Based
+LS_00972,12.06698,72.490223,Jammu & Kashmir,Chikmagalur,2003-09-03,Earth flow,3741.3671202917167,0,Low,Heavy Rainfall,Satellite Identified
+LS_00973,31.032757,90.793529,Tamil Nadu,Idukki,1999-07-30,Topple,6725.275622860966,0,Low,Heavy Rainfall,Satellite Identified
+LS_00974,8.676941,72.064108,Karnataka,Hassan,2022-04-01,Topple,7937.022012497476,0,Low,Heavy Rainfall,Report Based
+LS_00975,34.016521,88.905486,Jammu & Kashmir,Dakshina Kannada,2022-03-11,Topple,3291.074694399528,0,High,Snowmelt,Field Verified
+LS_00976,18.544359,72.986213,Sikkim,Kullu,2021-06-25,Earth slide,1201.0510454636378,0,Low,Human Activity,Field Verified
+LS_00977,14.649833,76.592608,Kerala,Pithoragarh,2022-03-17,Topple,11722.958761403834,0,Low,Heavy Rainfall,Field Verified
+LS_00978,20.584288,76.573747,Assam,Mandi,2014-05-29,Earth flow,913.3091476075816,0,Low,Human Activity,Field Verified
+LS_00979,13.411704,74.244257,Uttarakhand,Chikmagalur,1998-06-22,Earth flow,4569.106968672832,0,Low,Human Activity,Report Based
+LS_00980,18.156778,72.097006,Meghalaya,Hassan,2010-11-12,Rock fall,1980.1000329436465,0,Low,Human Activity,Satellite Identified
+LS_00981,8.934787,76.545028,Karnataka,Rudraprayag,2019-05-27,Complex landslide,15822.726396433058,0,Low,Heavy Rainfall,Satellite Identified
+LS_00982,10.335466,74.890361,Uttarakhand,Hassan,2008-05-16,Earth slide,15847.97096088541,0,Low,Heavy Rainfall,Satellite Identified
+LS_00983,33.991476,83.128241,Sikkim,Malappuram,2016-06-20,Complex landslide,1071.1644034926408,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00984,29.441211,80.755414,Assam,Kozhikode,2005-04-29,Rock slide,3131.995877276107,2,High,Heavy Rainfall,Satellite Identified
+LS_00985,9.942192,74.549925,Assam,East Khasi Hills,2001-07-21,Rock slide,3086.3275966374354,1,High,Heavy Rainfall,Satellite Identified
+LS_00986,19.651071,76.033539,Sikkim,Mandi,2010-10-09,Complex landslide,18.31505994527427,0,Low,Heavy Rainfall,Field Verified
+LS_00987,28.264492,87.510764,Jammu & Kashmir,Uttarkashi,2001-01-26,Debris flow,1522.5157203151084,0,Low,Earthquake,Satellite Identified
+LS_00988,31.381464,82.737484,Arunachal Pradesh,Pathanamthitta,2018-06-05,Debris flow,19050.422729556725,0,Low,Heavy Rainfall,Field Verified
+LS_00989,12.931753,76.554171,Tamil Nadu,Rudraprayag,2006-06-04,Earth flow,4777.079176162458,0,High,Heavy Rainfall,Field Verified
+LS_00990,31.96122,86.926605,Uttarakhand,Shimla,2021-12-30,Debris slide,201.80585026108793,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00991,12.167322,72.467601,Jammu & Kashmir,South Garo Hills,2010-01-28,Topple,2785.329115474062,0,High,Heavy Rainfall,Satellite Identified
+LS_00992,33.364128,84.45692,Himachal Pradesh,Uttarkashi,2008-06-11,Rock fall,1855.5649638479458,0,Medium,Heavy Rainfall,Field Verified
+LS_00993,15.362197,75.816475,Tamil Nadu,Malappuram,2007-09-29,Debris flow,733.8243481399348,0,Medium,Heavy Rainfall,Satellite Identified
+LS_00994,14.159053,74.233861,Meghalaya,South Garo Hills,2014-08-29,Rock fall,35.60916324120354,0,Low,Heavy Rainfall,Satellite Identified
+LS_00995,17.134184,76.7799,Jammu & Kashmir,Tehri Garhwal,2001-08-07,Debris flow,3789.3881017541125,0,High,Heavy Rainfall,Field Verified
+LS_00996,9.644035,76.212773,Sikkim,Kodagu,2001-03-15,Earth flow,2248.508400170427,0,Low,Heavy Rainfall,Satellite Identified
+LS_00997,28.424781,82.680192,Assam,Rudraprayag,2009-03-21,Debris slide,3955.0674587320027,0,Medium,Earthquake,Satellite Identified
+LS_00998,28.271691,78.076704,Meghalaya,Lahaul Spiti,2015-04-06,Rock fall,3845.9043591383147,1,Medium,Earthquake,Satellite Identified
+LS_00999,31.006135,83.884825,Himachal Pradesh,Chikmagalur,2018-09-03,Rock slide,856.1460252366315,0,High,Heavy Rainfall,Field Verified
+LS_01000,9.083928,76.642539,Karnataka,Idukki,2015-06-16,Earth flow,4334.374233494412,0,High,Heavy Rainfall,Satellite Identified
